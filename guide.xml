@@ -2,6 +2,10 @@
 <channel id="Blue Ant"><display-name>Rock Entertainment</display-name><url>https://www.useetv.com/livetv/blueant</url></channel>
 <channel id="Blue Ant Extreme"><display-name>Rock Extreme</display-name><url>https://www.useetv.com/livetv/blueantextreme</url></channel>
 <channel id="TVRISportHD.id"><display-name>TVRI Sport HD</display-name><url>dens.tv</url></channel>
-<channel id="Indonesiana"><display-name>Indonesiana TV</display-name><url>https://www.useetv.com/livetv/indonesiana</url></channel>
-<channel id="Tech Storm"><display-name>TechStorm</display-name><url>https://www.useetv.com/livetv/techstorm</url></channel>
-<channel id="Baby First"><display-name>BabyFirst</display-name><url>https://www.useetv.com/livetv/babyfirst</url></channel>
+<channel id="JGNews"><display-name>Jakarta Globe News Channel</display-name><url>https://www.firstmedia.com/product/tv-guide</url></channel>
+<channel id="BS World"><display-name>Berita Satu World</display-name><url>https://www.firstmedia.com/product/tv-guide</url></channel>
+<channel id="Tech Storm"><display-name>TechStorm</display-name><url>https://www.techstorm.tv/schedules/</url></channel>
+<channel id="Baby First"><display-name>BabyFirst</display-name><url>https://www.babyfirsttv.com/shows/</url></channel>
+<channel id="beIN News"><display-name>beIN Sports News</display-name><url>https://www.beinsports.com/en/tv-guide</url></channel>
+<channel id="GBNews"><display-name>GB News</display-name><url>https://www.gbnews.uk/schedule</url></channel>
+<channel id="Eurosport HD"><display-name>Eurosport Asia</display-name><url>https://www.firstmedia.com/product/tv-guide</url></channel>
