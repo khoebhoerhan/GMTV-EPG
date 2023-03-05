@@ -223,10 +223,11 @@
   <programme start="20230311200000 +0700" stop="20230311220000 +0700" channel="Ardan">
     <title lang="en">Ardan Shockaholic</title>
     <desc lang="en">Lagu dance pilihan hadir memanjakan kalian di malam Minggu. Sekali waktu juga ada live DJ set di studio.</desc>
+  </programme>
   <programme start="20230311220000 +0700" stop="20230312000000 +0700" channel="Ardan">
     <title lang="en">Ardan Nembak</title>
     <desc lang="en">Mau "nembak" pujaan hati? Jangan takut, sebab Buana Lintang akan menjadi fasilitator kalian di malam Minggu.</desc>
-      </programme>
+  </programme>
     <programme start="20230312000000 +0700" stop="20230312020000 +0700" channel="Ardan">
     <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
     <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
