@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Ardan">
+    <display-name lang="en">Ardan Radio</display-name>
+    <url>http://www.ardanradio.com</url>
+  </channel>
+  <channel id="B-Radio">
+    <display-name lang="en">B-Radio</display-name>
+    <url>http://www.bradio956.fm</url>
+  </channel>
+  <programme start="20230306000000 +0700" stop="20230306020000 +0700" channel="Ardan">
+    <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
+    <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+  </programme>
+  <programme start="20230306020000 +0700" stop="20230306050000 +0700" channel="Ardan">
+    <title lang="en">Non-stop Music</title>
+    <desc lang="en">Musik dinihari selama 180 menit penuh.</desc>
+  </programme>
+  <programme start="20230306050000 +0700" stop="20230306060000 +0700" channel="Ardan">
+    <title lang="en">School & Lovely Show</title>
+    <desc lang="en">Program yang dipandu oleh anggota Ardan School untuk menemani siswa-siswi SMA menyiapkan diri ke sekolah, yang juga melayani request lagu.</desc>
+  </programme>
+  <programme start="20230306060000 +0700" stop="20230306090000 +0700" channel="Ardan">
+    <title lang="en">Cipaganti (Cinta Pagi di Bandung City)</title>
+    <desc lang="en">Program pagi andalan Ardan Radio yang dibawakan oleh Iqbal Ramadhan dan Syarlita. Insan muda akan dimanjakan obrolan dan candaan seru serta lagu-lagu yang cool & lovely.</desc>
+  </programme>
+  <programme start="20230306090000 +0700" stop="20230306120000 +0700" channel="Ardan">
+    <title lang="en">Ardanesia</title>
+    <desc lang="en">Program yang memutarkan 100% musik Indonesia. Insan muda juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+  </programme>
+  <programme start="20230306120000 +0700" stop="20230306150000 +0700" channel="Ardan">
+    <title lang="en">LDR (Lunch Date Relationship)</title>
+    <desc lang="en">Menemani makan siang insan muda, Natasya Aurelia hadir dengan lagu-lagu barat dan Korea favorit. Ada juga perbincangan dan informasi hiburan, serta layanan request lagu.</desc>
+  </programme>
+  <programme start="20230306150000 +0700" stop="20230306180000 +0700" channel="Ardan">
+    <title lang="en">Hegarmanah (Heboh Segar Ngeunah)</title>
+    <desc lang="en">Saatnya ditemani Dimasta dan Buana Lintang yang akan menyegarkan sore hari kamu dengan musik dan candaan yang menyenangkan. Ada juga obrolan dan layanan curhat.</desc>
+  </programme>
+  <programme start="20230306180000 +0700" stop="20230306220000 +0700" channel="Ardan">
+    <title lang="en">Riauw (Rikues Lah Yauw)</title>
+    <desc lang="en">Mau request lagu? Lakukan sepuasnya karena ada Adinda Putri Thalita yang akan memutarkan lagu-lagu pilihan kalian.</desc>
+  </programme>
+  <programme start="20230306220000 +0700" stop="20230307000000 +0700" channel="Ardan">
+    <title lang="en">Bandung Banget</title>
+    <desc lang="en">Bersama Diki Irdan, insan muda diajak untuk update berbagai informasi mengenai Kota Bandung dan ngobrol bersama berbagai komunitas.</desc>
+  </programme>
+   <programme start="20230307000000 +0700" stop="20230307020000 +0700" channel="Ardan">
+    <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
+    <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+  </programme>
+  <programme start="20230307020000 +0700" stop="20230307050000 +0700" channel="Ardan">
+    <title lang="en">Non-stop Music</title>
+    <desc lang="en">Musik dinihari selama 180 menit penuh.</desc>
+  </programme>
+  <programme start="20230307050000 +0700" stop="20230307060000 +0700" channel="Ardan">
+    <title lang="en">School & Lovely Show</title>
+    <desc lang="en">Program yang dipandu oleh anggota Ardan School untuk menemani siswa-siswi SMA menyiapkan diri ke sekolah, yang juga melayani request lagu.</desc>
+  </programme>
+  <programme start="20230307060000 +0700" stop="20230307090000 +0700" channel="Ardan">
+    <title lang="en">Cipaganti (Cinta Pagi di Bandung City)</title>
+    <desc lang="en">Program pagi andalan Ardan Radio yang dibawakan oleh Iqbal Ramadhan dan Syarlita. Insan muda akan dimanjakan obrolan dan candaan seru serta lagu-lagu yang cool & lovely.</desc>
+  </programme>
+  <programme start="20230307090000 +0700" stop="20230307120000 +0700" channel="Ardan">
+    <title lang="en">Ardanesia</title>
+    <desc lang="en">Program yang memutarkan 100% musik Indonesia. Insan muda juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+  </programme>
+  <programme start="20230307120000 +0700" stop="20230307150000 +0700" channel="Ardan">
+    <title lang="en">LDR (Lunch Date Relationship)</title>
+    <desc lang="en">Menemani makan siang insan muda, Natasya Aurelia hadir dengan lagu-lagu barat dan Korea favorit. Ada juga perbincangan dan informasi hiburan, serta layanan request lagu.</desc>
+  </programme>
+  <programme start="20230307150000 +0700" stop="20230307180000 +0700" channel="Ardan">
+    <title lang="en">Hegarmanah (Heboh Segar Ngeunah)</title>
+    <desc lang="en">Saatnya ditemani Dimasta dan Buana Lintang yang akan menyegarkan sore hari kamu dengan musik dan candaan yang menyenangkan. Ada juga obrolan dan layanan curhat.</desc>
+  </programme>
+  <programme start="20230307180000 +0700" stop="20230307220000 +0700" channel="Ardan">
+    <title lang="en">Riauw (Rikues Lah Yauw)</title>
+    <desc lang="en">Mau request lagu? Lakukan sepuasnya karena ada Adinda Putri Thalita yang akan memutarkan lagu-lagu pilihan kalian.</desc>
+  </programme>
+  <programme start="20230307220000 +0700" stop="20230308000000 +0700" channel="Ardan">
+    <title lang="en">Idih Show</title>
+    <desc lang="en">Acara yang akan menceriakan Selasa malammu.</desc>
+  </programme>
+     <programme start="20230308000000 +0700" stop="20230308020000 +0700" channel="Ardan">
+    <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
+    <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+  </programme>
+  <programme start="20230308020000 +0700" stop="20230308050000 +0700" channel="Ardan">
+    <title lang="en">Non-stop Music</title>
+    <desc lang="en">Musik dinihari selama 180 menit penuh.</desc>
+  </programme>
+  <programme start="20230308050000 +0700" stop="20230308060000 +0700" channel="Ardan">
+    <title lang="en">School & Lovely Show</title>
+    <desc lang="en">Program yang dipandu oleh anggota Ardan School untuk menemani siswa-siswi SMA menyiapkan diri ke sekolah, yang juga melayani request lagu.</desc>
+  </programme>
+  <programme start="20230308060000 +0700" stop="20230308090000 +0700" channel="Ardan">
+    <title lang="en">Cipaganti (Cinta Pagi di Bandung City)</title>
+    <desc lang="en">Program pagi andalan Ardan Radio yang dibawakan oleh Iqbal Ramadhan dan Syarlita. Insan muda akan dimanjakan obrolan dan candaan seru serta lagu-lagu yang cool & lovely.</desc>
+  </programme>
+  <programme start="20230308090000 +0700" stop="20230308120000 +0700" channel="Ardan">
+    <title lang="en">Ardanesia</title>
+    <desc lang="en">Program yang memutarkan 100% musik Indonesia. Insan muda juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+  </programme>
+  <programme start="20230308120000 +0700" stop="20230308150000 +0700" channel="Ardan">
+    <title lang="en">LDR (Lunch Date Relationship)</title>
+    <desc lang="en">Menemani makan siang insan muda, Natasya Aurelia hadir dengan lagu-lagu barat dan Korea favorit. Ada juga perbincangan dan informasi hiburan, serta layanan request lagu.</desc>
+  </programme>
+  <programme start="20230308150000 +0700" stop="20230308180000 +0700" channel="Ardan">
+    <title lang="en">Hegarmanah (Heboh Segar Ngeunah)</title>
+    <desc lang="en">Saatnya ditemani Dimasta dan Buana Lintang yang akan menyegarkan sore hari kamu dengan musik dan candaan yang menyenangkan. Ada juga obrolan dan layanan curhat.</desc>
+  </programme>
+  <programme start="20230308180000 +0700" stop="20230308220000 +0700" channel="Ardan">
+    <title lang="en">Riauw (Rikues Lah Yauw)</title>
+    <desc lang="en">Mau request lagu? Lakukan sepuasnya karena ada Adinda Putri Thalita yang akan memutarkan lagu-lagu pilihan kalian.</desc>
+  </programme>
+  <programme start="20230308220000 +0700" stop="20230309000000 +0700" channel="Ardan">
+    <title lang="en">Ardan Ngejamz</title>
+    <desc lang="en">Lintang dan Keefe akan menemani Rabu malam kalian bersama musisi yang bernyanyi secara langsung dan menjawab aneka soal dari kalian.</desc>
+  </programme>
+  <programme start="20230309000000 +0700" stop="20230309020000 +0700" channel="Ardan">
+    <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
+    <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+  </programme>
+  <programme start="20230309020000 +0700" stop="20230309050000 +0700" channel="Ardan">
+    <title lang="en">Non-stop Music</title>
+    <desc lang="en">Musik dinihari selama 180 menit penuh.</desc>
+  </programme>
+  <programme start="20230309050000 +0700" stop="20230309060000 +0700" channel="Ardan">
+    <title lang="en">School & Lovely Show</title>
+    <desc lang="en">Program yang dipandu oleh anggota Ardan School untuk menemani siswa-siswi SMA menyiapkan diri ke sekolah, yang juga melayani request lagu.</desc>
+  </programme>
+  <programme start="20230309060000 +0700" stop="20230309090000 +0700" channel="Ardan">
+    <title lang="en">Cipaganti (Cinta Pagi di Bandung City)</title>
+    <desc lang="en">Program pagi andalan Ardan Radio yang dibawakan oleh Iqbal Ramadhan dan Syarlita. Insan muda akan dimanjakan obrolan dan candaan seru serta lagu-lagu yang cool & lovely.</desc>
+  </programme>
+  <programme start="20230309090000 +0700" stop="20230309120000 +0700" channel="Ardan">
+    <title lang="en">Ardanesia</title>
+    <desc lang="en">Program yang memutarkan 100% musik Indonesia. Insan muda juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+  </programme>
+  <programme start="20230309120000 +0700" stop="20230309150000 +0700" channel="Ardan">
+    <title lang="en">LDR (Lunch Date Relationship)</title>
+    <desc lang="en">Menemani makan siang insan muda, Natasya Aurelia hadir dengan lagu-lagu barat dan Korea favorit. Ada juga perbincangan dan informasi hiburan, serta layanan request lagu.</desc>
+  </programme>
+  <programme start="20230309150000 +0700" stop="20230309180000 +0700" channel="Ardan">
+    <title lang="en">Hegarmanah (Heboh Segar Ngeunah)</title>
+    <desc lang="en">Saatnya ditemani Dimasta dan Buana Lintang yang akan menyegarkan sore hari kamu dengan musik dan candaan yang menyenangkan. Ada juga obrolan dan layanan curhat.</desc>
+  </programme>
+  <programme start="20230309180000 +0700" stop="20230309220000 +0700" channel="Ardan">
+    <title lang="en">Riauw (Rikues Lah Yauw)</title>
+    <desc lang="en">Mau request lagu? Lakukan sepuasnya karena ada Adinda Putri Thalita yang akan memutarkan lagu-lagu pilihan kalian.</desc>
+  </programme>
+  <programme start="20230309220000 +0700" stop="20230310000000 +0700" channel="Ardan">
+    <title lang="en">Nightmare Side</title>
+    <desc lang="en">Program cerita horor di malam Jumat yang sangat legendaris dan tidak boleh didengarkan sendirian.</desc>
+  </programme>
+  <programme start="20230310000000 +0700" stop="20230310020000 +0700" channel="Ardan">
+    <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
+    <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+  </programme>
+  <programme start="20230310020000 +0700" stop="20230310050000 +0700" channel="Ardan">
+    <title lang="en">Non-stop Music</title>
+    <desc lang="en">Musik dinihari selama 180 menit penuh.</desc>
+  </programme>
+  <programme start="20230310050000 +0700" stop="20230310060000 +0700" channel="Ardan">
+    <title lang="en">School & Lovely Show</title>
+    <desc lang="en">Program yang dipandu oleh anggota Ardan School untuk menemani siswa-siswi SMA menyiapkan diri ke sekolah, yang juga melayani request lagu.</desc>
+  </programme>
+  <programme start="20230310060000 +0700" stop="20230310090000 +0700" channel="Ardan">
+    <title lang="en">Cipaganti (Cinta Pagi di Bandung City)</title>
+    <desc lang="en">Program pagi andalan Ardan Radio yang dibawakan oleh Iqbal Ramadhan dan Syarlita. Insan muda akan dimanjakan obrolan dan candaan seru serta lagu-lagu yang cool & lovely.</desc>
+  </programme>
+  <programme start="20230310090000 +0700" stop="20230310120000 +0700" channel="Ardan">
+    <title lang="en">Ardanesia</title>
+    <desc lang="en">Program yang memutarkan 100% musik Indonesia. Insan muda juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+  </programme>
+  <programme start="20230310120000 +0700" stop="20230310150000 +0700" channel="Ardan">
+    <title lang="en">LDR (Lunch Date Relationship)</title>
+    <desc lang="en">Menemani makan siang insan muda, Natasya Aurelia hadir dengan lagu-lagu barat dan Korea favorit. Ada juga perbincangan dan informasi hiburan, serta layanan request lagu.</desc>
+  </programme>
+  <programme start="20230310150000 +0700" stop="20230310180000 +0700" channel="Ardan">
+    <title lang="en">Hegarmanah (Heboh Segar Ngeunah)</title>
+    <desc lang="en">Saatnya ditemani Dimasta dan Buana Lintang yang akan menyegarkan sore hari kamu dengan musik dan candaan yang menyenangkan. Ada juga obrolan dan layanan curhat.</desc>
+  </programme>
+  <programme start="20230310180000 +0700" stop="20230310220000 +0700" channel="Ardan">
+    <title lang="en">Riauw (Rikues Lah Yauw)</title>
+    <desc lang="en">Mau request lagu? Lakukan sepuasnya karena ada Adinda Putri Thalita yang akan memutarkan lagu-lagu pilihan kalian.</desc>
+  </programme>
+  <programme start="20230310220000 +0700" stop="20230311000000 +0700" channel="Ardan">
+    <title lang="en">Konci (Konflik Cinta)</title>
+    <desc lang="en">Program yang isinya 100% perkara percintaan.</desc>
+  </programme>
+    <programme start="20230311000000 +0700" stop="20230311020000 +0700" channel="Ardan">
+    <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
+    <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+  </programme>
+  <programme start="20230311020000 +0700" stop="20230311050000 +0700" channel="Ardan">
+    <title lang="en">Non-stop Music</title>
+    <desc lang="en">Musik dinihari selama 180 menit penuh.</desc>
+  </programme>
+  <programme start="20230311050000 +0700" stop="20230311080000 +0700" channel="Ardan">
+    <title lang="en">Bis Sekolah</title>
+    <desc lang="en">Ardan School mempersembahkan program yang akan menceriakan weekend kamu, terutama bagi yang baru bangun pagi.</desc>
+  </programme>
+  <programme start="20230311080000 +0700" stop="20230311110000 +0700" channel="Ardan">
+    <title lang="en">Aseek (Ardan Special Weekend)</title>
+    <desc lang="en">Be cool and lovely in weekend morning dengan lagu-lagu yang mantap dan informasi yang mencerahkan.</desc>
+  </programme>
+  <programme start="20230311110000 +0700" stop="20230311130000 +0700" channel="Ardan">
+    <title lang="en">Hot Hits</title>
+    <desc lang="en">Program yang memberi ruang bagi UMKM di Kota Bandung untuk promosi dan meyakinkan insan muda untuk menggunakan atau mengonsumsi produk asli Kota Bandung.</desc>
+  </programme>
+  <programme start="20230311130000 +0700" stop="20230311150000 +0700" channel="Ardan">
+    <title lang="en">Asian Delight</title>
+    <desc lang="en">Menemani makan siang insan muda, Adinda Putri Thalita hadir dengan lagu-lagu Asia favorit. Ada juga informasi hiburan dan budaya Asia serta layanan request lagu.</desc>
+  </programme>
+  <programme start="20230311150000 +0700" stop="20230311180000 +0700" channel="Ardan">
+    <title lang="en">Live From</title>
+    <desc lang="en">Bingung mau malam mingguan di mana? Ardan Radio selalu punya rekomendasi untuk kamu, langsung dari lokasi. Ada review sajian dan perbincangan dengan pengelola.</desc>
+  </programme>
+  <programme start="20230311180000 +0700" stop="20230311200000 +0700" channel="Ardan">
+    <title lang="en">Kelas 159</title>
+    <desc lang="en">Saatnya mengasah otak kalian melalui game show pertama di Ardan! Kalian akan dicerahkan dengan berbagai soal dan jawaban.</desc>
+  </programme>
+  <programme start="20230311200000 +0700" stop="20230311220000 +0700" channel="Ardan">
+    <title lang="en">Ardan Shockaholic</title>
+    <desc lang="en">Lagu dance pilihan hadir memanjakan kalian di malam Minggu. Sekali waktu juga ada live DJ set di studio.</desc>
+  <programme start="20230311220000 +0700" stop="20230312000000 +0700" channel="Ardan">
+    <title lang="en">Ardan Nembak</title>
+    <desc lang="en">Mau "nembak" pujaan hati? Jangan takut, sebab Buana Lintang akan menjadi fasilitator kalian di malam Minggu.</desc>
+      </programme>
+    <programme start="20230312000000 +0700" stop="20230312020000 +0700" channel="Ardan">
+    <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
+    <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+  </programme>
+  <programme start="20230312020000 +0700" stop="20230312050000 +0700" channel="Ardan">
+    <title lang="en">Non-stop Music</title>
+    <desc lang="en">Musik dinihari selama 180 menit penuh.</desc>
+  </programme>
+  <programme start="20230312050000 +0700" stop="20230312080000 +0700" channel="Ardan">
+    <title lang="en">Bis Sekolah</title>
+    <desc lang="en">Ardan School mempersembahkan program yang akan menceriakan weekend kamu, terutama bagi yang baru bangun pagi.</desc>
+  </programme>
+  <programme start="20230312080000 +0700" stop="20230312110000 +0700" channel="Ardan">
+    <title lang="en">Aseek (Ardan Special Weekend)</title>
+    <desc lang="en">Be cool and lovely in weekend morning dengan lagu-lagu yang mantap dan informasi yang mencerahkan.</desc>
+  </programme>
+  <programme start="20230312110000 +0700" stop="20230312150000 +0700" channel="Ardan">
+    <title lang="en">Flight 40</title>
+    <desc lang="en">Diki Irdan akan me-review 40 lagu non-Indonesia yang paling digandrungi insan muda minggu ini.</desc>
+  </programme>
+  <programme start="20230312150000 +0700" stop="20230312180000 +0700" channel="Ardan">
+    <title lang="en">Ardan Indie 7</title>
+    <desc lang="en">Program yang isinya 100% musik indie bersama Keefe dan Yas Budaya, yang juga menampilkan musisi indie pilihan langsung di studio dan tangga lagu indie favorit.</desc>
+  </programme>
+  <programme start="20230312180000 +0700" stop="20230312200000 +0700" channel="Ardan">
+    <title lang="en">Ardan Top 20</title>
+    <desc lang="en">20 lagu pilihan minggu ini akan direview kembali di sini.</desc>
+  </programme>
+  <programme start="20230312200000 +0700" stop="20230312220000 +0700" channel="Ardan">
+    <title lang="en">Persada 7 + Persada 7 Lagi</title>
+    <desc lang="en">7 + 7 lagu Indonesia pilihan minggu ini akan direview kembali di sini.</desc>
+  </programme>
+    <programme start="20230312220000 +0700" stop="20230313000000 +0700" channel="Ardan">
+    <title lang="en">Dr Feel Good</title>
+    <desc lang="en">Mau tahu ramalan zodiak terbaru? Di sini tempatnya!.</desc>
+  </programme>
+    <programme start="20230306000000 +0700" stop="20230306020000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230306020000 +0700" stop="20230306050000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230306050000 +0700" stop="20230306060000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230306060000 +0700" stop="20230306090000 +0700" channel="B-Radio">
+    <title lang="en">Selamat Pagi Cantik</title>
+    <desc lang="en">Program pagi andalan B-Radio yang dibawakan oleh Indra Ansara dan Mia Yohana. Pendengar akan dimanjakan obrolan seru dan informasi menarik serta lagu-lagu pilihan.</desc>
+  </programme>
+  <programme start="20230306090000 +0700" stop="20230306120000 +0700" channel="B-Radio">
+    <title lang="en">Brunch Date</title>
+    <desc lang="en">Mau request lagu pilihan sambil beraktivitas? Lakukan sepuasnya karena B-Radio akan memutarkan lagu-lagu pilihan kalian.</desc>
+  </programme>
+  <programme start="20230306120000 +0700" stop="20230306150000 +0700" channel="B-Radio">
+    <title lang="en">Lintas Persada</title>
+    <desc lang="en">Program yang memutarkan 100% musik Indonesia. Pendengar juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+  </programme>
+  <programme start="20230306150000 +0700" stop="20230306180000 +0700" channel="B-Radio">
+    <title lang="en">Genk Ladies</title>
+    <desc lang="en">Saatnya ditemani Priyanka Faza yang akan menyegarkan sore hari kamu dengan musik dan obrolan yang menarik.</desc>
+  </programme>
+  <programme start="20230306180000 +0700" stop="20230306220000 +0700" channel="B-Radio">
+    <title lang="en">Evening Show</title>
+    <desc lang="en">Ifan Firdaus Hasan akan menceriakan malam kalian dengan sajian terbaik.</desc>
+  </programme>
+  <programme start="20230306220000 +0700" stop="20230307000000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+   <programme start="20230307000000 +0700" stop="20230307020000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230307020000 +0700" stop="20230307050000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230307050000 +0700" stop="20230307060000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230307060000 +0700" stop="20230307090000 +0700" channel="B-Radio">
+    <title lang="en">Selamat Pagi Cantik</title>
+    <desc lang="en">Program pagi andalan B-Radio yang dibawakan oleh Indra Ansara dan Mia Yohana. Pendengar akan dimanjakan obrolan seru dan informasi menarik serta lagu-lagu pilihan.</desc>
+  </programme>
+  <programme start="20230307090000 +0700" stop="20230307120000 +0700" channel="B-Radio">
+    <title lang="en">Brunch Date</title>
+    <desc lang="en">Mau request lagu pilihan sambil beraktivitas? Lakukan sepuasnya karena B-Radio akan memutarkan lagu-lagu pilihan kalian.</desc>
+  </programme>
+  <programme start="20230307120000 +0700" stop="20230307150000 +0700" channel="B-Radio">
+    <title lang="en">Lintas Persada</title>
+    <desc lang="en">Program yang memutarkan 100% musik Indonesia. Pendengar juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+  </programme>
+  <programme start="20230307150000 +0700" stop="20230307180000 +0700" channel="B-Radio">
+    <title lang="en">Genk Ladies</title>
+    <desc lang="en">Saatnya ditemani Priyanka Faza yang akan menyegarkan sore hari kamu dengan musik dan obrolan yang menarik.</desc>
+  </programme>
+  <programme start="20230307180000 +0700" stop="20230307220000 +0700" channel="B-Radio">
+    <title lang="en">Evening Show</title>
+    <desc lang="en">Ifan Firdaus Hasan akan menceriakan malam kalian dengan sajian terbaik.</desc>
+  </programme>
+  <programme start="20230307220000 +0700" stop="20230308000000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+     <programme start="20230308000000 +0700" stop="20230308020000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230308020000 +0700" stop="20230308050000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230308050000 +0700" stop="20230308060000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230308060000 +0700" stop="20230308090000 +0700" channel="B-Radio">
+    <title lang="en">Selamat Pagi Cantik</title>
+    <desc lang="en">Program pagi andalan B-Radio yang dibawakan oleh Indra Ansara dan Mia Yohana. Pendengar akan dimanjakan obrolan seru dan informasi menarik serta lagu-lagu pilihan.</desc>
+  </programme>
+  <programme start="20230308090000 +0700" stop="20230308120000 +0700" channel="B-Radio">
+    <title lang="en">Brunch Date</title>
+    <desc lang="en">Mau request lagu pilihan sambil beraktivitas? Lakukan sepuasnya karena B-Radio akan memutarkan lagu-lagu pilihan kalian.</desc>
+  </programme>
+  <programme start="20230308120000 +0700" stop="20230308150000 +0700" channel="B-Radio">
+    <title lang="en">Lintas Persada</title>
+    <desc lang="en">Program yang memutarkan 100% musik Indonesia. Pendengar juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+  </programme>
+  <programme start="20230308150000 +0700" stop="20230308180000 +0700" channel="B-Radio">
+    <title lang="en">Genk Ladies</title>
+    <desc lang="en">Saatnya ditemani Priyanka Faza yang akan menyegarkan sore hari kamu dengan musik dan obrolan yang menarik.</desc>
+  </programme>
+  <programme start="20230308180000 +0700" stop="20230308220000 +0700" channel="B-Radio">
+    <title lang="en">Evening Show</title>
+    <desc lang="en">Ifan Firdaus Hasan akan menceriakan malam kalian dengan sajian terbaik.</desc>
+  </programme>
+  <programme start="20230308220000 +0700" stop="20230309000000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230309000000 +0700" stop="20230309020000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230309020000 +0700" stop="20230309050000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230309050000 +0700" stop="20230309060000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230309060000 +0700" stop="20230309090000 +0700" channel="B-Radio">
+    <title lang="en">Selamat Pagi Cantik</title>
+    <desc lang="en">Program pagi andalan B-Radio yang dibawakan oleh Indra Ansara dan Mia Yohana. Pendengar akan dimanjakan obrolan seru dan informasi menarik serta lagu-lagu pilihan.</desc>
+  </programme>
+  <programme start="20230309090000 +0700" stop="20230309120000 +0700" channel="B-Radio">
+    <title lang="en">Brunch Date</title>
+    <desc lang="en">Mau request lagu pilihan sambil beraktivitas? Lakukan sepuasnya karena B-Radio akan memutarkan lagu-lagu pilihan kalian.</desc>
+  </programme>
+  <programme start="20230309120000 +0700" stop="20230309150000 +0700" channel="B-Radio">
+    <title lang="en">Lintas Persada</title>
+    <desc lang="en">Program yang memutarkan 100% musik Indonesia. Pendengar juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+  </programme>
+  <programme start="20230309150000 +0700" stop="20230309180000 +0700" channel="B-Radio">
+    <title lang="en">Genk Ladies</title>
+    <desc lang="en">Saatnya ditemani Priyanka Faza yang akan menyegarkan sore hari kamu dengan musik dan obrolan yang menarik.</desc>
+  </programme>
+  <programme start="20230309180000 +0700" stop="20230309220000 +0700" channel="B-Radio">
+    <title lang="en">Evening Show</title>
+    <desc lang="en">Ifan Firdaus Hasan akan menceriakan malam kalian dengan sajian terbaik.</desc>
+  </programme>
+  <programme start="20230309220000 +0700" stop="20230310000000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230310000000 +0700" stop="20230310020000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230310020000 +0700" stop="20230310050000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230310050000 +0700" stop="20230310060000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230310060000 +0700" stop="20230310090000 +0700" channel="B-Radio">
+    <title lang="en">Selamat Pagi Cantik</title>
+    <desc lang="en">Program pagi andalan B-Radio yang dibawakan oleh Indra Ansara dan Mia Yohana. Pendengar akan dimanjakan obrolan seru dan informasi menarik serta lagu-lagu pilihan.</desc>
+  </programme>
+  <programme start="20230310090000 +0700" stop="20230310120000 +0700" channel="B-Radio">
+    <title lang="en">Brunch Date</title>
+    <desc lang="en">Mau request lagu pilihan sambil beraktivitas? Lakukan sepuasnya karena B-Radio akan memutarkan lagu-lagu pilihan kalian.</desc>
+  </programme>
+  <programme start="20230310120000 +0700" stop="20230310150000 +0700" channel="B-Radio">
+    <title lang="en">Lintas Persada</title>
+    <desc lang="en">Program yang memutarkan 100% musik Indonesia. Pendengar juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+  </programme>
+  <programme start="20230310150000 +0700" stop="20230310180000 +0700" channel="B-Radio">
+    <title lang="en">Genk Ladies</title>
+    <desc lang="en">Saatnya ditemani Priyanka Faza yang akan menyegarkan sore hari kamu dengan musik dan obrolan yang menarik.</desc>
+  </programme>
+  <programme start="20230310180000 +0700" stop="20230310220000 +0700" channel="B-Radio">
+    <title lang="en">Evening Show</title>
+    <desc lang="en">Ifan Firdaus Hasan akan menceriakan malam kalian dengan sajian terbaik.</desc>
+  </programme>
+  <programme start="20230310220000 +0700" stop="20230311000000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+    <programme start="20230311000000 +0700" stop="20230311020000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230311020000 +0700" stop="20230311050000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230311050000 +0700" stop="20230311070000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230311070000 +0700" stop="20230311100000 +0700" channel="B-Radio">
+    <title lang="en">Beautiful Weekend</title>
+    <desc lang="en">Be beautiful in weekend morning dengan lagu-lagu yang mantap dan informasi yang mencerahkan.</desc>
+  </programme>
+  <programme start="20230311100000 +0700" stop="20230311120000 +0700" channel="B-Radio">
+    <title lang="en">K-Pop To The Top</title>
+    <desc lang="en">Menemani akhir pekan, B-Radio hadir dengan lagu-lagu Korea favorit. Ada juga informasi hiburan dan budaya Korea serta layanan request lagu.</desc>
+  </programme>
+  <programme start="20230311120000 +0700" stop="20230311150000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230311150000 +0700" stop="20230311180000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230311180000 +0700" stop="20230311210000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230311210000 +0700" stop="20230311230000 +0700" channel="B-Radio">
+    <title lang="en">Girls Night Out</title>
+    <desc lang="en">Nikmati malam Minggu bersama Mia Yohana dengan sajian khas GNO.</desc>
+  <programme start="20230311230000 +0700" stop="20230312000000 +0700" channel="Ardan">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+      </programme>
+    <programme start="20230312000000 +0700" stop="20230312020000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230312020000 +0700" stop="20230312050000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230312050000 +0700" stop="20230312070000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230312070000 +0700" stop="20230312100000 +0700" channel="B-Radio">
+    <title lang="en">Beautiful Weekend</title>
+    <desc lang="en">Be beautiful in weekend morning dengan lagu-lagu yang mantap dan informasi yang mencerahkan.</desc>
+  </programme>
+  <programme start="20230312100000 +0700" stop="20230312150000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230312150000 +0700" stop="20230312180000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230312180000 +0700" stop="20230312200000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+  <programme start="20230312200000 +0700" stop="20230312220000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+    <programme start="20230312220000 +0700" stop="20230313000000 +0700" channel="B-Radio">
+    <title lang="en">B-Radio</title>
+    <desc lang="en">Radionya Perempuan Bandung.</desc>
+  </programme>
+</tv>
