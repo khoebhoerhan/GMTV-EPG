@@ -458,7 +458,7 @@
     <desc lang="en">Ceriakan weekend kamu bersama Gen FM!</desc>
     <icon src="https://gen1031fm.com/assets/uploads/photos/2022/07/14/1716241WEB-BANNER-GWS-GADIS-IRENE.jpg" />
   </programme>
-  <programme start="20230305230000 +0700" stop="20230306060000 +0700" channel="Jak FM">
+  <programme start="20230305200000 +0700" stop="20230306060000 +0700" channel="Jak FM">
     <title lang="en">Jak Non-stop Music</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
@@ -467,140 +467,221 @@
     <desc lang="en">Awali hari bersama Molan dan Gita yang bakal nemenin kamu, Jakartans!</desc>
     <icon src="https://jak101fm.com/wp-content/uploads/2023/01/SARAPAN-SERU-2023.png" />
   </programme>
-  <programme start="20230306100000 +0700" stop="20230306130000 +0700" channel="Gen JKT">
-    <title lang="en">Tulalit Pagi</title>
-    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
-    <icon src="https://gen987fm.com/uploads/program/tulalit-92877bf3ca9aded.jpeg" />
+  <programme start="20230306100000 +0700" stop="20230306130000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/01.JAK-BEST-MUSIC_Vecky-Manengkey_weekday-10-13.png" />
   </programme>
-  <programme start="20230306130000 +0700" stop="20230306160000 +0700" channel="Gen JKT">
-    <title lang="en">Tulalit Siang</title>
-    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
-    <icon src="https://gen987fm.com/uploads/program/tulalit-181459a7f02ee8b.jpeg" />
+  <programme start="20230306130000 +0700" stop="20230306160000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/02.JAK-BEST-MUSIC_Davy-Andry_weekday-13-16.png" />
   </programme>
-  <programme start="20230306160000 +0700" stop="20230306200000 +0700" channel="Gen JKT">
-    <title lang="en">DJ Sore</title>
-    <desc lang="en">Sore ke Malam, kamu lagi di JALAN macet-macetan? Atau masih nge-JALAN-nin urusan yang bikin kamu nggak pulang-pulang? Keduanya butuh hal yang sama: RE-CHARGE! Duo penyiar Patra & Diaz bakal setia buat isi ulang energi kamu, supaya nggak kalah sama kerasnya sang waktu Senin sampai Jumat, pukul 16.00 sampai 20.00 WIB Kembali kuat bareng DJ Sore!</desc>
-    <icon src="https://gen987fm.com/uploads/program/dj-sore-959548f5c08d390.jpeg" />
+  <programme start="20230306160000 +0700" stop="20230306200000 +0700" channel="Jak FM">
+    <title lang="en">Siaran Pulang Kerja</title>
+    <desc lang="en">Sore ke Malam, kamu lagi di JALAN macet-macetan? Atau masih nge-JALAN-nin urusan yang bikin kamu nggak pulang-pulang? Keduanya butuh hal yang sama: RE-CHARGE! Duo penyiar Sahil & Kamal bakal setia buat isi ulang energi kamu, supaya nggak kalah sama kerasnya sang waktu Senin sampai Jumat, pukul 16.00 sampai 20.00 WIB Kembali kuat bareng SPK!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/SIARAN-PULANG-KERJA-SAHIL-KAMAL.png" />
   </programme>
-  <programme start="20230306200000 +0700" stop="20230306230000 +0700" channel="Gen JKT">
-    <title lang="en">OTW Malem</title>
-    <desc lang="en">Sajian malam yang menghibur dan mencerahkan sebelum beristirahat</desc>
-    <icon src="https://gen987fm.com/uploads/program/otw-malem-55426dc0eabfbf5.jpeg" />
+  <programme start="20230306200000 +0700" stop="20230307000000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang masih sibuk atau udah mau istirahat malam, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, malam kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/03.JAK-BEST-MUSIC_Weekday-Cindy-Lauw_20-24.png" />
   </programme>
-  <programme start="20230305230000 +0700" stop="20230306060000 +0700" channel="Gen JKT">
-    <title lang="en">Gen Musik Terus</title>
+  <programme start="20230307000000 +0700" stop="20230307060000 +0700" channel="Jak FM">
+    <title lang="en">Jak Non-stop Music</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
-  <programme start="20230306060000 +0700" stop="20230306100000 +0700" channel="Gen JKT">
-    <title lang="en">Semangat Pagi</title>
-    <desc lang="en">Ada saja hal yang bisa bikin hati kita kalut, tapi ada banyak cara pula untuk kita jadi feeling good! Program SEMANGAT PAGI sudah terbukti, jadi andalan bagi ratusan ribu orang, untuk bisa ceria setiap harinya! Pokoknya Kemal dan Sinyo siap jadi vitamin yang bikin naik imunitas kamu! Biar tambah mantap dalam memulai pagi menggapai mimpi dan sesuap nasi! Senin sampai Jumat, jam 6 sampai 10 pagi! Kita ngobrol seru, pasang lagu enak, dan ngerjain orang via telepon sampai kelojotan! Jangan kasih kendor!</desc>
-    <icon src="https://gen987fm.com/uploads/program/semangat-pagi-89990327779633f.jpeg" />
+  <programme start="20230307060000 +0700" stop="20230307100000 +0700" channel="Jak FM">
+    <title lang="en">Sarapan Seru</title>
+    <desc lang="en">Awali hari bersama Molan dan Gita yang bakal nemenin kamu, Jakartans!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/SARAPAN-SERU-2023.png" />
   </programme>
-  <programme start="20230306100000 +0700" stop="20230306130000 +0700" channel="Gen JKT">
-    <title lang="en">Tulalit Pagi</title>
-    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
-    <icon src="https://gen987fm.com/uploads/program/tulalit-92877bf3ca9aded.jpeg" />
+  <programme start="20230307100000 +0700" stop="20230307130000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/01.JAK-BEST-MUSIC_Vecky-Manengkey_weekday-10-13.png" />
   </programme>
-  <programme start="20230306130000 +0700" stop="20230306160000 +0700" channel="Gen JKT">
-    <title lang="en">Tulalit Siang</title>
-    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
-    <icon src="https://gen987fm.com/uploads/program/tulalit-181459a7f02ee8b.jpeg" />
+  <programme start="20230307130000 +0700" stop="20230307160000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/02.JAK-BEST-MUSIC_Davy-Andry_weekday-13-16.png" />
   </programme>
-  <programme start="20230306160000 +0700" stop="20230306200000 +0700" channel="Gen JKT">
-    <title lang="en">DJ Sore</title>
-    <desc lang="en">Sore ke Malam, kamu lagi di JALAN macet-macetan? Atau masih nge-JALAN-nin urusan yang bikin kamu nggak pulang-pulang? Keduanya butuh hal yang sama: RE-CHARGE! Duo penyiar Patra & Diaz bakal setia buat isi ulang energi kamu, supaya nggak kalah sama kerasnya sang waktu Senin sampai Jumat, pukul 16.00 sampai 20.00 WIB Kembali kuat bareng DJ Sore!</desc>
-    <icon src="https://gen987fm.com/uploads/program/dj-sore-959548f5c08d390.jpeg" />
+  <programme start="20230307160000 +0700" stop="20230307200000 +0700" channel="Jak FM">
+    <title lang="en">Siaran Pulang Kerja</title>
+    <desc lang="en">Sore ke Malam, kamu lagi di JALAN macet-macetan? Atau masih nge-JALAN-nin urusan yang bikin kamu nggak pulang-pulang? Keduanya butuh hal yang sama: RE-CHARGE! Duo penyiar Sahil & Kamal bakal setia buat isi ulang energi kamu, supaya nggak kalah sama kerasnya sang waktu Senin sampai Jumat, pukul 16.00 sampai 20.00 WIB Kembali kuat bareng SPK!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/SIARAN-PULANG-KERJA-SAHIL-KAMAL.png" />
   </programme>
-  <programme start="20230306200000 +0700" stop="20230306230000 +0700" channel="Gen JKT">
-    <title lang="en">OTW Malem</title>
-    <desc lang="en">Sajian malam yang menghibur dan mencerahkan sebelum beristirahat</desc>
-    <icon src="https://gen987fm.com/uploads/program/otw-malem-55426dc0eabfbf5.jpeg" />
+  <programme start="20230307200000 +0700" stop="20230308000000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang masih sibuk atau udah mau istirahat malam, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, malam kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/03.JAK-BEST-MUSIC_Weekday-Cindy-Lauw_20-24.png" />
   </programme>
-  <programme start="20230305230000 +0700" stop="20230306060000 +0700" channel="Gen JKT">
-    <title lang="en">Gen Musik Terus</title>
+  <programme start="20230308000000 +0700" stop="20230308060000 +0700" channel="Jak FM">
+    <title lang="en">Jak Non-stop Music</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
-  <programme start="20230306060000 +0700" stop="20230306100000 +0700" channel="Gen JKT">
-    <title lang="en">Semangat Pagi</title>
-    <desc lang="en">Ada saja hal yang bisa bikin hati kita kalut, tapi ada banyak cara pula untuk kita jadi feeling good! Program SEMANGAT PAGI sudah terbukti, jadi andalan bagi ratusan ribu orang, untuk bisa ceria setiap harinya! Pokoknya Kemal dan Sinyo siap jadi vitamin yang bikin naik imunitas kamu! Biar tambah mantap dalam memulai pagi menggapai mimpi dan sesuap nasi! Senin sampai Jumat, jam 6 sampai 10 pagi! Kita ngobrol seru, pasang lagu enak, dan ngerjain orang via telepon sampai kelojotan! Jangan kasih kendor!</desc>
-    <icon src="https://gen987fm.com/uploads/program/semangat-pagi-89990327779633f.jpeg" />
+  <programme start="20230308060000 +0700" stop="20230308100000 +0700" channel="Jak FM">
+    <title lang="en">Sarapan Seru</title>
+    <desc lang="en">Awali hari bersama Molan dan Gita yang bakal nemenin kamu, Jakartans!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/SARAPAN-SERU-2023.png" />
   </programme>
-  <programme start="20230306100000 +0700" stop="20230306130000 +0700" channel="Gen JKT">
-    <title lang="en">Tulalit Pagi</title>
-    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
-    <icon src="https://gen987fm.com/uploads/program/tulalit-92877bf3ca9aded.jpeg" />
+  <programme start="20230308100000 +0700" stop="20230308130000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/01.JAK-BEST-MUSIC_Vecky-Manengkey_weekday-10-13.png" />
   </programme>
-  <programme start="20230306130000 +0700" stop="20230306160000 +0700" channel="Gen JKT">
-    <title lang="en">Tulalit Siang</title>
-    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
-    <icon src="https://gen987fm.com/uploads/program/tulalit-181459a7f02ee8b.jpeg" />
+  <programme start="20230308130000 +0700" stop="20230308160000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/02.JAK-BEST-MUSIC_Davy-Andry_weekday-13-16.png" />
   </programme>
-  <programme start="20230306160000 +0700" stop="20230306200000 +0700" channel="Gen JKT">
-    <title lang="en">DJ Sore</title>
-    <desc lang="en">Sore ke Malam, kamu lagi di JALAN macet-macetan? Atau masih nge-JALAN-nin urusan yang bikin kamu nggak pulang-pulang? Keduanya butuh hal yang sama: RE-CHARGE! Duo penyiar Patra & Diaz bakal setia buat isi ulang energi kamu, supaya nggak kalah sama kerasnya sang waktu Senin sampai Jumat, pukul 16.00 sampai 20.00 WIB Kembali kuat bareng DJ Sore!</desc>
-    <icon src="https://gen987fm.com/uploads/program/dj-sore-959548f5c08d390.jpeg" />
+  <programme start="20230308160000 +0700" stop="20230308200000 +0700" channel="Jak FM">
+    <title lang="en">Siaran Pulang Kerja</title>
+    <desc lang="en">Sore ke Malam, kamu lagi di JALAN macet-macetan? Atau masih nge-JALAN-nin urusan yang bikin kamu nggak pulang-pulang? Keduanya butuh hal yang sama: RE-CHARGE! Duo penyiar Sahil & Kamal bakal setia buat isi ulang energi kamu, supaya nggak kalah sama kerasnya sang waktu Senin sampai Jumat, pukul 16.00 sampai 20.00 WIB Kembali kuat bareng SPK!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/SIARAN-PULANG-KERJA-SAHIL-KAMAL.png" />
   </programme>
-  <programme start="20230306200000 +0700" stop="20230306230000 +0700" channel="Gen JKT">
-    <title lang="en">OTW Malem</title>
-    <desc lang="en">Sajian malam yang menghibur dan mencerahkan sebelum beristirahat</desc>
-    <icon src="https://gen987fm.com/uploads/program/otw-malem-55426dc0eabfbf5.jpeg" />
+  <programme start="20230308200000 +0700" stop="20230309000000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang masih sibuk atau udah mau istirahat malam, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, malam kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/03.JAK-BEST-MUSIC_Weekday-Cindy-Lauw_20-24.png" />
   </programme>
-  <programme start="20230305230000 +0700" stop="20230306060000 +0700" channel="Gen JKT">
-    <title lang="en">Gen Musik Terus</title>
+  <programme start="20230309000000 +0700" stop="20230309060000 +0700" channel="Jak FM">
+    <title lang="en">Jak Non-stop Music</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
-  <programme start="20230306060000 +0700" stop="20230306100000 +0700" channel="Gen JKT">
-    <title lang="en">Semangat Pagi</title>
-    <desc lang="en">Ada saja hal yang bisa bikin hati kita kalut, tapi ada banyak cara pula untuk kita jadi feeling good! Program SEMANGAT PAGI sudah terbukti, jadi andalan bagi ratusan ribu orang, untuk bisa ceria setiap harinya! Pokoknya Kemal dan Sinyo siap jadi vitamin yang bikin naik imunitas kamu! Biar tambah mantap dalam memulai pagi menggapai mimpi dan sesuap nasi! Senin sampai Jumat, jam 6 sampai 10 pagi! Kita ngobrol seru, pasang lagu enak, dan ngerjain orang via telepon sampai kelojotan! Jangan kasih kendor!</desc>
-    <icon src="https://gen987fm.com/uploads/program/semangat-pagi-89990327779633f.jpeg" />
+  <programme start="20230309060000 +0700" stop="20230309100000 +0700" channel="Jak FM">
+    <title lang="en">Sarapan Seru</title>
+    <desc lang="en">Awali hari bersama Molan dan Gita yang bakal nemenin kamu, Jakartans!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/SARAPAN-SERU-2023.png" />
   </programme>
-  <programme start="20230306100000 +0700" stop="20230306130000 +0700" channel="Gen JKT">
-    <title lang="en">Tulalit Pagi</title>
-    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
-    <icon src="https://gen987fm.com/uploads/program/tulalit-92877bf3ca9aded.jpeg" />
+  <programme start="20230309100000 +0700" stop="20230309130000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/01.JAK-BEST-MUSIC_Vecky-Manengkey_weekday-10-13.png" />
   </programme>
-  <programme start="20230306130000 +0700" stop="20230306160000 +0700" channel="Gen JKT">
-    <title lang="en">Tulalit Siang</title>
-    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
-    <icon src="https://gen987fm.com/uploads/program/tulalit-181459a7f02ee8b.jpeg" />
+  <programme start="20230309130000 +0700" stop="20230309160000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/02.JAK-BEST-MUSIC_Davy-Andry_weekday-13-16.png" />
   </programme>
-  <programme start="20230306160000 +0700" stop="20230306200000 +0700" channel="Gen JKT">
-    <title lang="en">DJ Sore</title>
-    <desc lang="en">Sore ke Malam, kamu lagi di JALAN macet-macetan? Atau masih nge-JALAN-nin urusan yang bikin kamu nggak pulang-pulang? Keduanya butuh hal yang sama: RE-CHARGE! Duo penyiar Patra & Diaz bakal setia buat isi ulang energi kamu, supaya nggak kalah sama kerasnya sang waktu Senin sampai Jumat, pukul 16.00 sampai 20.00 WIB Kembali kuat bareng DJ Sore!</desc>
-    <icon src="https://gen987fm.com/uploads/program/dj-sore-959548f5c08d390.jpeg" />
+  <programme start="20230309160000 +0700" stop="20230309200000 +0700" channel="Jak FM">
+    <title lang="en">Siaran Pulang Kerja</title>
+    <desc lang="en">Sore ke Malam, kamu lagi di JALAN macet-macetan? Atau masih nge-JALAN-nin urusan yang bikin kamu nggak pulang-pulang? Keduanya butuh hal yang sama: RE-CHARGE! Duo penyiar Sahil & Kamal bakal setia buat isi ulang energi kamu, supaya nggak kalah sama kerasnya sang waktu Senin sampai Jumat, pukul 16.00 sampai 20.00 WIB Kembali kuat bareng SPK!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/SIARAN-PULANG-KERJA-SAHIL-KAMAL.png" />
   </programme>
-  <programme start="20230306200000 +0700" stop="20230306230000 +0700" channel="Gen JKT">
-    <title lang="en">OTW Malem</title>
-    <desc lang="en">Sajian malam yang menghibur dan mencerahkan sebelum beristirahat</desc>
-    <icon src="https://gen987fm.com/uploads/program/otw-malem-55426dc0eabfbf5.jpeg" />
+  <programme start="20230309200000 +0700" stop="20230310000000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang masih sibuk atau udah mau istirahat malam, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, malam kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/03.JAK-BEST-MUSIC_Weekday-Cindy-Lauw_20-24.png" />
   </programme>
-  <programme start="20230305230000 +0700" stop="20230306060000 +0700" channel="Gen JKT">
-    <title lang="en">Gen Musik Terus</title>
+  <programme start="20230310000000 +0700" stop="20230310060000 +0700" channel="Jak FM">
+    <title lang="en">Jak Non-stop Music</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
-  <programme start="20230306060000 +0700" stop="20230306100000 +0700" channel="Gen JKT">
-    <title lang="en">Semangat Pagi</title>
-    <desc lang="en">Ada saja hal yang bisa bikin hati kita kalut, tapi ada banyak cara pula untuk kita jadi feeling good! Program SEMANGAT PAGI sudah terbukti, jadi andalan bagi ratusan ribu orang, untuk bisa ceria setiap harinya! Pokoknya Kemal dan Sinyo siap jadi vitamin yang bikin naik imunitas kamu! Biar tambah mantap dalam memulai pagi menggapai mimpi dan sesuap nasi! Senin sampai Jumat, jam 6 sampai 10 pagi! Kita ngobrol seru, pasang lagu enak, dan ngerjain orang via telepon sampai kelojotan! Jangan kasih kendor!</desc>
-    <icon src="https://gen987fm.com/uploads/program/semangat-pagi-89990327779633f.jpeg" />
+  <programme start="20230310060000 +0700" stop="20230310100000 +0700" channel="Jak FM">
+    <title lang="en">Sarapan Seru</title>
+    <desc lang="en">Awali hari bersama Molan dan Gita yang bakal nemenin kamu, Jakartans!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/SARAPAN-SERU-2023.png" />
   </programme>
-  <programme start="20230306100000 +0700" stop="20230306130000 +0700" channel="Gen JKT">
-    <title lang="en">Tulalit Pagi</title>
-    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
-    <icon src="https://gen987fm.com/uploads/program/tulalit-92877bf3ca9aded.jpeg" />
+  <programme start="20230310100000 +0700" stop="20230310130000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/01.JAK-BEST-MUSIC_Vecky-Manengkey_weekday-10-13.png" />
   </programme>
-  <programme start="20230306130000 +0700" stop="20230306160000 +0700" channel="Gen JKT">
-    <title lang="en">Tulalit Siang</title>
-    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
-    <icon src="https://gen987fm.com/uploads/program/tulalit-181459a7f02ee8b.jpeg" />
+  <programme start="20230310130000 +0700" stop="20230310160000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/02.JAK-BEST-MUSIC_Davy-Andry_weekday-13-16.png" />
   </programme>
-  <programme start="20230306160000 +0700" stop="20230306200000 +0700" channel="Gen JKT">
-    <title lang="en">DJ Sore</title>
-    <desc lang="en">Sore ke Malam, kamu lagi di JALAN macet-macetan? Atau masih nge-JALAN-nin urusan yang bikin kamu nggak pulang-pulang? Keduanya butuh hal yang sama: RE-CHARGE! Duo penyiar Patra & Diaz bakal setia buat isi ulang energi kamu, supaya nggak kalah sama kerasnya sang waktu Senin sampai Jumat, pukul 16.00 sampai 20.00 WIB Kembali kuat bareng DJ Sore!</desc>
-    <icon src="https://gen987fm.com/uploads/program/dj-sore-959548f5c08d390.jpeg" />
+  <programme start="20230310160000 +0700" stop="20230310200000 +0700" channel="Jak FM">
+    <title lang="en">Siaran Pulang Kerja</title>
+    <desc lang="en">Sore ke Malam, kamu lagi di JALAN macet-macetan? Atau masih nge-JALAN-nin urusan yang bikin kamu nggak pulang-pulang? Keduanya butuh hal yang sama: RE-CHARGE! Duo penyiar Sahil & Kamal bakal setia buat isi ulang energi kamu, supaya nggak kalah sama kerasnya sang waktu Senin sampai Jumat, pukul 16.00 sampai 20.00 WIB Kembali kuat bareng SPK!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/SIARAN-PULANG-KERJA-SAHIL-KAMAL.png" />
   </programme>
-  <programme start="20230306200000 +0700" stop="20230306230000 +0700" channel="Gen JKT">
-    <title lang="en">OTW Malem</title>
-    <desc lang="en">Sajian malam yang menghibur dan mencerahkan sebelum beristirahat</desc>
-    <icon src="https://gen987fm.com/uploads/program/otw-malem-55426dc0eabfbf5.jpeg" />
-  </programme>  
+  <programme start="20230310200000 +0700" stop="20230311000000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang masih sibuk atau udah mau istirahat malam, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, malam kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/03.JAK-BEST-MUSIC_Weekday-Cindy-Lauw_20-24.png" />
+  </programme>
+  <programme start="20230310000000 +0700" stop="20230310060000 +0700" channel="Jak FM">
+    <title lang="en">Jak Non-stop Music</title>
+    <desc lang="en">Musik non-stop</desc>
+  </programme>
+  <programme start="20230310060000 +0700" stop="20230310100000 +0700" channel="Jak FM">
+    <title lang="en">Sarapan Seru</title>
+    <desc lang="en">Awali hari bersama Molan dan Gita yang bakal nemenin kamu, Jakartans!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/SARAPAN-SERU-2023.png" />
+  </programme>
+  <programme start="20230310100000 +0700" stop="20230310130000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/01.JAK-BEST-MUSIC_Vecky-Manengkey_weekday-10-13.png" />
+  </programme>
+  <programme start="20230310130000 +0700" stop="20230310160000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi sibuk atau hanya ingin bersantai, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/02.JAK-BEST-MUSIC_Davy-Andry_weekday-13-16.png" />
+  </programme>
+  <programme start="20230310160000 +0700" stop="20230310200000 +0700" channel="Jak FM">
+    <title lang="en">Siaran Pulang Kerja</title>
+    <desc lang="en">Sore ke Malam, kamu lagi di JALAN macet-macetan? Atau masih nge-JALAN-nin urusan yang bikin kamu nggak pulang-pulang? Keduanya butuh hal yang sama: RE-CHARGE! Duo penyiar Sahil & Kamal bakal setia buat isi ulang energi kamu, supaya nggak kalah sama kerasnya sang waktu Senin sampai Jumat, pukul 16.00 sampai 20.00 WIB Kembali kuat bareng SPK!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/SIARAN-PULANG-KERJA-SAHIL-KAMAL.png" />
+  </programme>
+  <programme start="20230310200000 +0700" stop="20230311000000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang masih sibuk atau udah mau istirahat malam, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, malam kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/03.JAK-BEST-MUSIC_Weekday-Cindy-Lauw_20-24.png" />
+  </programme>
+  <programme start="20230311000000 +0700" stop="20230311060000 +0700" channel="Jak FM">
+    <title lang="en">Jak Non-stop Music</title>
+    <desc lang="en">Musik non-stop</desc>
+  </programme>
+  <programme start="20230311060000 +0700" stop="20230311100000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, weekend kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/04.JAK-BEST-MUSIC-_Aisha-Lahtiba-_-WEEKEND-06-10.png" />
+  </programme>
+  <programme start="20230311100000 +0700" stop="20230311130000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, weekend kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/05.JAK-BEST-MUSIC_-Caesar-Gunawan_weekend-10-13.png" />
+  </programme>
+  <programme start="20230311130000 +0700" stop="20230311160000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, weekend kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/06.JAK-BEST-MUSIC_Tjiang_Weekend-13-16.png" />
+  </programme>
+  <programme start="20230311160000 +0700" stop="20230311200000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, weekend kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/07.JAK-BEST-MUSIC_-Egard-Dewo_Weekend-16-20.png" />
+  </programme>
+  <programme start="20230311200000 +0700" stop="20230312060000 +0700" channel="Jak FM">
+    <title lang="en">Jak Non-stop Music</title>
+    <desc lang="en">Musik non-stop</desc>
+  </programme>
+  <programme start="20230312060000 +0700" stop="20230312100000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, weekend kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/04.JAK-BEST-MUSIC-_Aisha-Lahtiba-_-WEEKEND-06-10.png" />
+  </programme>
+  <programme start="20230312100000 +0700" stop="20230312130000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, weekend kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/05.JAK-BEST-MUSIC_-Caesar-Gunawan_weekend-10-13.png" />
+  </programme>
+  <programme start="20230312130000 +0700" stop="20230312160000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, weekend kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/06.JAK-BEST-MUSIC_Tjiang_Weekend-13-16.png" />
+  </programme>
+  <programme start="20230312160000 +0700" stop="20230312200000 +0700" channel="Jak FM">
+    <title lang="en">Jak Best Music</title>
+    <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, weekend kamu nggak akan pernah terasa sepi sendirian!</desc>
+    <icon src="https://jak101fm.com/wp-content/uploads/2023/01/07.JAK-BEST-MUSIC_-Egard-Dewo_Weekend-16-20.png" />
+  </programme>
+  <programme start="20230312200000 +0700" stop="20230313060000 +0700" channel="Jak FM">
+    <title lang="en">Jak Non-stop Music</title>
+    <desc lang="en">Musik non-stop</desc>
+  </programme>
 </tv>
