@@ -11,6 +11,7 @@
   <programme start="20230306000000 +0700" stop="20230306020000 +0700" channel="Ardan">
     <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
     <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+    <icon src="https://i.imgur.com/wW6O4jO.jpg" />
   </programme>
   <programme start="20230306020000 +0700" stop="20230306050000 +0700" channel="Ardan">
     <title lang="en">Non-stop Music</title>
@@ -23,30 +24,37 @@
   <programme start="20230306060000 +0700" stop="20230306090000 +0700" channel="Ardan">
     <title lang="en">Cipaganti (Cinta Pagi di Bandung City)</title>
     <desc lang="en">Program pagi andalan Ardan Radio yang dibawakan oleh Iqbal Ramadhan dan Syarlita. Insan muda akan dimanjakan obrolan dan candaan seru serta lagu-lagu yang cool & lovely.</desc>
+    <icon src="https://i.imgur.com/DAtutwg.png" />
   </programme>
   <programme start="20230306090000 +0700" stop="20230306120000 +0700" channel="Ardan">
     <title lang="en">Ardanesia</title>
     <desc lang="en">Program yang memutarkan 100% musik Indonesia. Insan muda juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+    <icon src="https://i.imgur.com/lfccZZH.png" />
   </programme>
   <programme start="20230306120000 +0700" stop="20230306150000 +0700" channel="Ardan">
     <title lang="en">LDR (Lunch Date Relationship)</title>
     <desc lang="en">Menemani makan siang insan muda, Natasya Aurelia hadir dengan lagu-lagu barat dan Korea favorit. Ada juga perbincangan dan informasi hiburan, serta layanan request lagu.</desc>
+    <icon src="https://i.imgur.com/6WCcUOl.png" />
   </programme>
   <programme start="20230306150000 +0700" stop="20230306180000 +0700" channel="Ardan">
     <title lang="en">Hegarmanah (Heboh Segar Ngeunah)</title>
     <desc lang="en">Saatnya ditemani Dimasta dan Buana Lintang yang akan menyegarkan sore hari kamu dengan musik dan candaan yang menyenangkan. Ada juga obrolan dan layanan curhat.</desc>
+    <icon src="https://i.imgur.com/MYoNOYy.jpg" />
   </programme>
   <programme start="20230306180000 +0700" stop="20230306220000 +0700" channel="Ardan">
     <title lang="en">Riauw (Rikues Lah Yauw)</title>
     <desc lang="en">Mau request lagu? Lakukan sepuasnya karena ada Adinda Putri Thalita yang akan memutarkan lagu-lagu pilihan kalian.</desc>
+    <icon src="https://i.imgur.com/ZtVqAJL.jpg" />
   </programme>
   <programme start="20230306220000 +0700" stop="20230307000000 +0700" channel="Ardan">
     <title lang="en">Bandung Banget</title>
     <desc lang="en">Bersama Diki Irdan, insan muda diajak untuk update berbagai informasi mengenai Kota Bandung dan ngobrol bersama berbagai komunitas.</desc>
+    <icon src="https://i.imgur.com/bngInkG.png" />
   </programme>
    <programme start="20230307000000 +0700" stop="20230307020000 +0700" channel="Ardan">
     <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
     <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+    <icon src="https://i.imgur.com/wW6O4jO.jpg" />
   </programme>
   <programme start="20230307020000 +0700" stop="20230307050000 +0700" channel="Ardan">
     <title lang="en">Non-stop Music</title>
@@ -59,30 +67,37 @@
   <programme start="20230307060000 +0700" stop="20230307090000 +0700" channel="Ardan">
     <title lang="en">Cipaganti (Cinta Pagi di Bandung City)</title>
     <desc lang="en">Program pagi andalan Ardan Radio yang dibawakan oleh Iqbal Ramadhan dan Syarlita. Insan muda akan dimanjakan obrolan dan candaan seru serta lagu-lagu yang cool & lovely.</desc>
+    <icon src="https://i.imgur.com/DAtutwg.png" />
   </programme>
   <programme start="20230307090000 +0700" stop="20230307120000 +0700" channel="Ardan">
     <title lang="en">Ardanesia</title>
     <desc lang="en">Program yang memutarkan 100% musik Indonesia. Insan muda juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+    <icon src="https://i.imgur.com/lfccZZH.png" />
   </programme>
   <programme start="20230307120000 +0700" stop="20230307150000 +0700" channel="Ardan">
     <title lang="en">LDR (Lunch Date Relationship)</title>
     <desc lang="en">Menemani makan siang insan muda, Natasya Aurelia hadir dengan lagu-lagu barat dan Korea favorit. Ada juga perbincangan dan informasi hiburan, serta layanan request lagu.</desc>
+    <icon src="https://i.imgur.com/6WCcUOl.png" />
   </programme>
   <programme start="20230307150000 +0700" stop="20230307180000 +0700" channel="Ardan">
     <title lang="en">Hegarmanah (Heboh Segar Ngeunah)</title>
     <desc lang="en">Saatnya ditemani Dimasta dan Buana Lintang yang akan menyegarkan sore hari kamu dengan musik dan candaan yang menyenangkan. Ada juga obrolan dan layanan curhat.</desc>
+    <icon src="https://i.imgur.com/MYoNOYy.jpg" />
   </programme>
   <programme start="20230307180000 +0700" stop="20230307220000 +0700" channel="Ardan">
     <title lang="en">Riauw (Rikues Lah Yauw)</title>
     <desc lang="en">Mau request lagu? Lakukan sepuasnya karena ada Adinda Putri Thalita yang akan memutarkan lagu-lagu pilihan kalian.</desc>
+    <icon src="https://i.imgur.com/ZtVqAJL.jpg" />
   </programme>
   <programme start="20230307220000 +0700" stop="20230308000000 +0700" channel="Ardan">
     <title lang="en">Idih Show</title>
     <desc lang="en">Acara yang akan menceriakan Selasa malammu.</desc>
+    <icon src="https://i.imgur.com/kKwO9oX.jpg" />
   </programme>
-     <programme start="20230308000000 +0700" stop="20230308020000 +0700" channel="Ardan">
+  <programme start="20230308000000 +0700" stop="20230308020000 +0700" channel="Ardan">
     <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
     <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+    <icon src="https://i.imgur.com/wW6O4jO.jpg" />
   </programme>
   <programme start="20230308020000 +0700" stop="20230308050000 +0700" channel="Ardan">
     <title lang="en">Non-stop Music</title>
@@ -95,30 +110,37 @@
   <programme start="20230308060000 +0700" stop="20230308090000 +0700" channel="Ardan">
     <title lang="en">Cipaganti (Cinta Pagi di Bandung City)</title>
     <desc lang="en">Program pagi andalan Ardan Radio yang dibawakan oleh Iqbal Ramadhan dan Syarlita. Insan muda akan dimanjakan obrolan dan candaan seru serta lagu-lagu yang cool & lovely.</desc>
+    <icon src="https://i.imgur.com/DAtutwg.png" />
   </programme>
   <programme start="20230308090000 +0700" stop="20230308120000 +0700" channel="Ardan">
     <title lang="en">Ardanesia</title>
     <desc lang="en">Program yang memutarkan 100% musik Indonesia. Insan muda juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+    <icon src="https://i.imgur.com/lfccZZH.png" />
   </programme>
   <programme start="20230308120000 +0700" stop="20230308150000 +0700" channel="Ardan">
     <title lang="en">LDR (Lunch Date Relationship)</title>
     <desc lang="en">Menemani makan siang insan muda, Natasya Aurelia hadir dengan lagu-lagu barat dan Korea favorit. Ada juga perbincangan dan informasi hiburan, serta layanan request lagu.</desc>
+    <icon src="https://i.imgur.com/6WCcUOl.png" />
   </programme>
   <programme start="20230308150000 +0700" stop="20230308180000 +0700" channel="Ardan">
     <title lang="en">Hegarmanah (Heboh Segar Ngeunah)</title>
     <desc lang="en">Saatnya ditemani Dimasta dan Buana Lintang yang akan menyegarkan sore hari kamu dengan musik dan candaan yang menyenangkan. Ada juga obrolan dan layanan curhat.</desc>
+    <icon src="https://i.imgur.com/MYoNOYy.jpg" />
   </programme>
   <programme start="20230308180000 +0700" stop="20230308220000 +0700" channel="Ardan">
     <title lang="en">Riauw (Rikues Lah Yauw)</title>
     <desc lang="en">Mau request lagu? Lakukan sepuasnya karena ada Adinda Putri Thalita yang akan memutarkan lagu-lagu pilihan kalian.</desc>
+    <icon src="https://i.imgur.com/ZtVqAJL.jpg" />
   </programme>
   <programme start="20230308220000 +0700" stop="20230309000000 +0700" channel="Ardan">
     <title lang="en">Ardan Ngejamz</title>
     <desc lang="en">Lintang dan Keefe akan menemani Rabu malam kalian bersama musisi yang bernyanyi secara langsung dan menjawab aneka soal dari kalian.</desc>
+    <icon src="https://i.imgur.com/MZbLqjQ.jpg" />
   </programme>
   <programme start="20230309000000 +0700" stop="20230309020000 +0700" channel="Ardan">
     <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
     <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+    <icon src="https://i.imgur.com/wW6O4jO.jpg" />
   </programme>
   <programme start="20230309020000 +0700" stop="20230309050000 +0700" channel="Ardan">
     <title lang="en">Non-stop Music</title>
@@ -131,30 +153,37 @@
   <programme start="20230309060000 +0700" stop="20230309090000 +0700" channel="Ardan">
     <title lang="en">Cipaganti (Cinta Pagi di Bandung City)</title>
     <desc lang="en">Program pagi andalan Ardan Radio yang dibawakan oleh Iqbal Ramadhan dan Syarlita. Insan muda akan dimanjakan obrolan dan candaan seru serta lagu-lagu yang cool & lovely.</desc>
+    <icon src="https://i.imgur.com/DAtutwg.png" />
   </programme>
-  <programme start="20230309090000 +0700" stop="20230309120000 +0700" channel="Ardan">
+  <programme start="20230309090000 +0700" stop="20230309120000 +0700" channel="Ardan">    
     <title lang="en">Ardanesia</title>
     <desc lang="en">Program yang memutarkan 100% musik Indonesia. Insan muda juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+    <icon src="https://i.imgur.com/lfccZZH.png" />
   </programme>
   <programme start="20230309120000 +0700" stop="20230309150000 +0700" channel="Ardan">
     <title lang="en">LDR (Lunch Date Relationship)</title>
     <desc lang="en">Menemani makan siang insan muda, Natasya Aurelia hadir dengan lagu-lagu barat dan Korea favorit. Ada juga perbincangan dan informasi hiburan, serta layanan request lagu.</desc>
+    <icon src="https://i.imgur.com/6WCcUOl.png" />
   </programme>
   <programme start="20230309150000 +0700" stop="20230309180000 +0700" channel="Ardan">
     <title lang="en">Hegarmanah (Heboh Segar Ngeunah)</title>
     <desc lang="en">Saatnya ditemani Dimasta dan Buana Lintang yang akan menyegarkan sore hari kamu dengan musik dan candaan yang menyenangkan. Ada juga obrolan dan layanan curhat.</desc>
+    <icon src="https://i.imgur.com/MYoNOYy.jpg" />
   </programme>
   <programme start="20230309180000 +0700" stop="20230309220000 +0700" channel="Ardan">
     <title lang="en">Riauw (Rikues Lah Yauw)</title>
     <desc lang="en">Mau request lagu? Lakukan sepuasnya karena ada Adinda Putri Thalita yang akan memutarkan lagu-lagu pilihan kalian.</desc>
+    <icon src="https://i.imgur.com/ZtVqAJL.jpg" />
   </programme>
   <programme start="20230309220000 +0700" stop="20230310000000 +0700" channel="Ardan">
     <title lang="en">Nightmare Side</title>
     <desc lang="en">Program cerita horor di malam Jumat yang sangat legendaris dan tidak boleh didengarkan sendirian.</desc>
+    <icon src="https://i.imgur.com/kZxtQnC.jpg" />
   </programme>
   <programme start="20230310000000 +0700" stop="20230310020000 +0700" channel="Ardan">
     <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
     <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+    <icon src="https://i.imgur.com/wW6O4jO.jpg" />
   </programme>
   <programme start="20230310020000 +0700" stop="20230310050000 +0700" channel="Ardan">
     <title lang="en">Non-stop Music</title>
@@ -167,30 +196,37 @@
   <programme start="20230310060000 +0700" stop="20230310090000 +0700" channel="Ardan">
     <title lang="en">Cipaganti (Cinta Pagi di Bandung City)</title>
     <desc lang="en">Program pagi andalan Ardan Radio yang dibawakan oleh Iqbal Ramadhan dan Syarlita. Insan muda akan dimanjakan obrolan dan candaan seru serta lagu-lagu yang cool & lovely.</desc>
+    <icon src="https://i.imgur.com/DAtutwg.png" />
   </programme>
   <programme start="20230310090000 +0700" stop="20230310120000 +0700" channel="Ardan">
     <title lang="en">Ardanesia</title>
     <desc lang="en">Program yang memutarkan 100% musik Indonesia. Insan muda juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
+    <icon src="https://i.imgur.com/lfccZZH.png" />
   </programme>
   <programme start="20230310120000 +0700" stop="20230310150000 +0700" channel="Ardan">
     <title lang="en">LDR (Lunch Date Relationship)</title>
     <desc lang="en">Menemani makan siang insan muda, Natasya Aurelia hadir dengan lagu-lagu barat dan Korea favorit. Ada juga perbincangan dan informasi hiburan, serta layanan request lagu.</desc>
+    <icon src="https://i.imgur.com/6WCcUOl.png" />
   </programme>
   <programme start="20230310150000 +0700" stop="20230310180000 +0700" channel="Ardan">
     <title lang="en">Hegarmanah (Heboh Segar Ngeunah)</title>
     <desc lang="en">Saatnya ditemani Dimasta dan Buana Lintang yang akan menyegarkan sore hari kamu dengan musik dan candaan yang menyenangkan. Ada juga obrolan dan layanan curhat.</desc>
+    <icon src="https://i.imgur.com/MYoNOYy.jpg" />
   </programme>
   <programme start="20230310180000 +0700" stop="20230310220000 +0700" channel="Ardan">
     <title lang="en">Riauw (Rikues Lah Yauw)</title>
     <desc lang="en">Mau request lagu? Lakukan sepuasnya karena ada Adinda Putri Thalita yang akan memutarkan lagu-lagu pilihan kalian.</desc>
+    <icon src="https://i.imgur.com/ZtVqAJL.jpg" />
   </programme>
   <programme start="20230310220000 +0700" stop="20230311000000 +0700" channel="Ardan">
     <title lang="en">Konci (Konflik Cinta)</title>
     <desc lang="en">Program yang isinya 100% perkara percintaan.</desc>
+    <icon src="https://i.imgur.com/MesSiNR.jpg" />
   </programme>
-    <programme start="20230311000000 +0700" stop="20230311020000 +0700" channel="Ardan">
+  <programme start="20230311000000 +0700" stop="20230311020000 +0700" channel="Ardan">
     <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
     <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+    <icon src="https://i.imgur.com/wW6O4jO.jpg" />
   </programme>
   <programme start="20230311020000 +0700" stop="20230311050000 +0700" channel="Ardan">
     <title lang="en">Non-stop Music</title>
@@ -203,6 +239,7 @@
   <programme start="20230311080000 +0700" stop="20230311110000 +0700" channel="Ardan">
     <title lang="en">Aseek (Ardan Special Weekend)</title>
     <desc lang="en">Be cool and lovely in weekend morning dengan lagu-lagu yang mantap dan informasi yang mencerahkan.</desc>
+    <icon src="https://i.imgur.com/Sl1HhXH.png" />
   </programme>
   <programme start="20230311110000 +0700" stop="20230311130000 +0700" channel="Ardan">
     <title lang="en">Hot Hits</title>
@@ -219,6 +256,7 @@
   <programme start="20230311180000 +0700" stop="20230311200000 +0700" channel="Ardan">
     <title lang="en">Kelas 159</title>
     <desc lang="en">Saatnya mengasah otak kalian melalui game show pertama di Ardan! Kalian akan dicerahkan dengan berbagai soal dan jawaban.</desc>
+    <icon src="https://i.imgur.com/2sNiVLf.png" />
   </programme>
   <programme start="20230311200000 +0700" stop="20230311220000 +0700" channel="Ardan">
     <title lang="en">Ardan Shockaholic</title>
@@ -227,10 +265,12 @@
   <programme start="20230311220000 +0700" stop="20230312000000 +0700" channel="Ardan">
     <title lang="en">Ardan Nembak</title>
     <desc lang="en">Mau "nembak" pujaan hati? Jangan takut, sebab Buana Lintang akan menjadi fasilitator kalian di malam Minggu.</desc>
+    <icon src="https://i.imgur.com/F4rPOz5.jpg" />
   </programme>
-    <programme start="20230312000000 +0700" stop="20230312020000 +0700" channel="Ardan">
+  <programme start="20230312000000 +0700" stop="20230312020000 +0700" channel="Ardan">
     <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
     <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
+    <icon src="https://i.imgur.com/wW6O4jO.jpg" />
   </programme>
   <programme start="20230312020000 +0700" stop="20230312050000 +0700" channel="Ardan">
     <title lang="en">Non-stop Music</title>
@@ -243,14 +283,17 @@
   <programme start="20230312080000 +0700" stop="20230312110000 +0700" channel="Ardan">
     <title lang="en">Aseek (Ardan Special Weekend)</title>
     <desc lang="en">Be cool and lovely in weekend morning dengan lagu-lagu yang mantap dan informasi yang mencerahkan.</desc>
+    <icon src="https://i.imgur.com/Sl1HhXH.png" />
   </programme>
   <programme start="20230312110000 +0700" stop="20230312150000 +0700" channel="Ardan">
     <title lang="en">Flight 40</title>
     <desc lang="en">Diki Irdan akan me-review 40 lagu non-Indonesia yang paling digandrungi insan muda minggu ini.</desc>
+    <icon src="https://i.imgur.com/YpKWBMH.jpg" />
   </programme>
   <programme start="20230312150000 +0700" stop="20230312180000 +0700" channel="Ardan">
     <title lang="en">Ardan Indie 7</title>
     <desc lang="en">Program yang isinya 100% musik indie bersama Keefe dan Yas Budaya, yang juga menampilkan musisi indie pilihan langsung di studio dan tangga lagu indie favorit.</desc>
+    <icon src="https://i.imgur.com/EbefLiH.jpg" />
   </programme>
   <programme start="20230312180000 +0700" stop="20230312200000 +0700" channel="Ardan">
     <title lang="en">Ardan Top 20</title>
@@ -260,11 +303,11 @@
     <title lang="en">Persada 7 + Persada 7 Lagi</title>
     <desc lang="en">7 + 7 lagu Indonesia pilihan minggu ini akan direview kembali di sini.</desc>
   </programme>
-    <programme start="20230312220000 +0700" stop="20230313000000 +0700" channel="Ardan">
+  <programme start="20230312220000 +0700" stop="20230313000000 +0700" channel="Ardan">
     <title lang="en">Dr Feel Good</title>
     <desc lang="en">Mau tahu ramalan zodiak terbaru? Di sini tempatnya!.</desc>
   </programme>
-    <programme start="20230306000000 +0700" stop="20230306020000 +0700" channel="B-Radio">
+  <programme start="20230306000000 +0700" stop="20230306020000 +0700" channel="B-Radio">
     <title lang="en">B-Radio</title>
     <desc lang="en">Radionya Perempuan Bandung.</desc>
   </programme>
@@ -336,7 +379,7 @@
     <title lang="en">B-Radio</title>
     <desc lang="en">Radionya Perempuan Bandung.</desc>
   </programme>
-     <programme start="20230308000000 +0700" stop="20230308020000 +0700" channel="B-Radio">
+  <programme start="20230308000000 +0700" stop="20230308020000 +0700" channel="B-Radio">
     <title lang="en">B-Radio</title>
     <desc lang="en">Radionya Perempuan Bandung.</desc>
   </programme>
