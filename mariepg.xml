@@ -12,6 +12,10 @@
     <display-name lang="en">Jak FM</display-name>
     <url>http://www.jak101fm.com</url>
   </channel>
+  <channel id="Most 1058">
+    <display-name lang="en">Most Radio Jakarta</display-name>
+    <url>http://www.most1058fm.com</url>
+  </channel>
   <programme start="20230305230000 +0700" stop="20230306060000 +0700" channel="Gen JKT">
     <title lang="en">Gen Musik Terus</title>
     <desc lang="en">Musik non-stop</desc>
@@ -682,6 +686,203 @@
   </programme>
   <programme start="20230312200000 +0700" stop="20230313060000 +0700" channel="Jak FM">
     <title lang="en">Jak Non-stop Music</title>
+    <desc lang="en">Musik non-stop</desc>
+  </programme>
+    <programme start="20230305200000 +0700" stop="20230306060000 +0700" channel="Most 1058">
+    <title lang="en">Most 1058</title>
+    <desc lang="en">Musik non-stop</desc>
+  </programme>
+  <programme start="20230306060000 +0700" stop="20230306100000 +0700" channel="Most 1058">
+    <title lang="en">Prime Time</title>
+    <desc lang="en">Morning show program yang membahas berbagai trending issues. Lengkap dengan pandangan para narasumber terkait, dipandu Arlingga Panega dan Indy Rahmawati, Prime Time MOST1058 on air tiap Senin-Jum’at mulai jam 06.00–10.00 WIB dan menawarkan cara yang lebih santai menikmati informasi.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/PRIME-TIME-1-1024x1024.jpg" />
+  </programme>
+  <programme start="20230306100000 +0700" stop="20230306130000 +0700" channel="Most 1058">
+    <title lang="en">Daily News</title>
+    <desc lang="en">Ditemani oleh Andryan Eswe, Senin-Jum’at jam 10.00–13.00 WIB. Program ini berisi update-update informasi harian sejak pagi hingga siang hari mulai dari informasi lokal, nasional, internasional, dan juga olahraga yang disampaikan dengan singkat dan lugas, membuat Most People tidak melewatkan berbagai informasi terkini.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/DAILY-NEWS-1024x1024.jpg" />
+  </programme>
+  <programme start="20230306130000 +0700" stop="20230306160000 +0700" channel="Most 1058">
+    <title lang="en">After Lunch</title>
+    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13 – 16 WIB</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-LUNCH-1024x1024.jpg" />
+  </programme>
+  <programme start="20230306160000 +0700" stop="20230306200000 +0700" channel="Most 1058">
+    <title lang="en">Drive Time</title>
+    <desc lang="en">Afternoon show program, yang membahas sebuah topik secara santai, namun tetap menggali informasi secara mendalam. Juga lengkap dengan pandangan para narsumber terkait. Drive Time mulai Senin-Jum’at jam 16.00–20.00 WIB Bersama Esna Ardianny dan Akbari Madjid</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/DRIVE-TIME-1024x1024.jpg" />
+  </programme>
+  <programme start="20230306200000 +0700" stop="20230306220000 +0700" channel="Most 1058">
+    <title lang="en">After Hours</title>
+    <desc lang="en">Bersama Justine Viddy | Setiap Senin-Jum’at dari jam 20.00– 22.00 WIB. Program ini berisi update-update informasi harian sejak siang hingga malam hari mulai dari informasi lokal, nasional, internasional dan juga olahraga yang disampaikan dengan singkat dan lugas, membuat Most People tidak melewatkan berbagai informasi terkini</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-HOURS-1024x1024.jpg" />
+  </programme>
+  <programme start="20230306220000 +0700" stop="20230307060000 +0700" channel="Most 1058">
+    <title lang="en">Most 1058</title>
+    <desc lang="en">Musik non-stop</desc>
+  </programme>
+  <programme start="20230307060000 +0700" stop="20230307100000 +0700" channel="Most 1058">
+    <title lang="en">Prime Time</title>
+    <desc lang="en">Morning show program yang membahas berbagai trending issues. Lengkap dengan pandangan para narasumber terkait, dipandu Arlingga Panega dan Indy Rahmawati, Prime Time MOST1058 on air tiap Senin-Jum’at mulai jam 06.00–10.00 WIB dan menawarkan cara yang lebih santai menikmati informasi.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/PRIME-TIME-1-1024x1024.jpg" />
+  </programme>
+  <programme start="20230307100000 +0700" stop="20230307130000 +0700" channel="Most 1058">
+    <title lang="en">Daily News</title>
+    <desc lang="en">Ditemani oleh Andryan Eswe, Senin-Jum’at jam 10.00–13.00 WIB. Program ini berisi update-update informasi harian sejak pagi hingga siang hari mulai dari informasi lokal, nasional, internasional, dan juga olahraga yang disampaikan dengan singkat dan lugas, membuat Most People tidak melewatkan berbagai informasi terkini.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/DAILY-NEWS-1024x1024.jpg" />
+  </programme>
+  <programme start="20230307130000 +0700" stop="20230307160000 +0700" channel="Most 1058">
+    <title lang="en">After Lunch</title>
+    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13 – 16 WIB</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-LUNCH-1024x1024.jpg" />
+  </programme>
+  <programme start="20230307160000 +0700" stop="20230307200000 +0700" channel="Most 1058">
+    <title lang="en">Drive Time</title>
+    <desc lang="en">Afternoon show program, yang membahas sebuah topik secara santai, namun tetap menggali informasi secara mendalam. Juga lengkap dengan pandangan para narsumber terkait. Drive Time mulai Senin-Jum’at jam 16.00–20.00 WIB Bersama Esna Ardianny dan Akbari Madjid</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/DRIVE-TIME-1024x1024.jpg" />
+  </programme>
+  <programme start="20230307200000 +0700" stop="20230307220000 +0700" channel="Most 1058">
+    <title lang="en">After Hours</title>
+    <desc lang="en">Bersama Justine Viddy | Setiap Senin-Jum’at dari jam 20.00– 22.00 WIB. Program ini berisi update-update informasi harian sejak siang hingga malam hari mulai dari informasi lokal, nasional, internasional dan juga olahraga yang disampaikan dengan singkat dan lugas, membuat Most People tidak melewatkan berbagai informasi terkini</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-HOURS-1024x1024.jpg" />
+  </programme>
+  <programme start="20230307220000 +0700" stop="20230308060000 +0700" channel="Most 1058">
+    <title lang="en">Most 1058</title>
+    <desc lang="en">Musik non-stop</desc>
+  </programme>
+  <programme start="20230308060000 +0700" stop="20230308100000 +0700" channel="Most 1058">
+    <title lang="en">Prime Time</title>
+    <desc lang="en">Morning show program yang membahas berbagai trending issues. Lengkap dengan pandangan para narasumber terkait, dipandu Arlingga Panega dan Indy Rahmawati, Prime Time MOST1058 on air tiap Senin-Jum’at mulai jam 06.00–10.00 WIB dan menawarkan cara yang lebih santai menikmati informasi.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/PRIME-TIME-1-1024x1024.jpg" />
+  </programme>
+  <programme start="20230308100000 +0700" stop="20230308130000 +0700" channel="Most 1058">
+    <title lang="en">Daily News</title>
+    <desc lang="en">Ditemani oleh Andryan Eswe, Senin-Jum’at jam 10.00–13.00 WIB. Program ini berisi update-update informasi harian sejak pagi hingga siang hari mulai dari informasi lokal, nasional, internasional, dan juga olahraga yang disampaikan dengan singkat dan lugas, membuat Most People tidak melewatkan berbagai informasi terkini.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/DAILY-NEWS-1024x1024.jpg" />
+  </programme>
+  <programme start="20230308130000 +0700" stop="20230308160000 +0700" channel="Most 1058">
+    <title lang="en">After Lunch</title>
+    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13 – 16 WIB</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-LUNCH-1024x1024.jpg" />
+  </programme>
+  <programme start="20230308160000 +0700" stop="20230308200000 +0700" channel="Most 1058">
+    <title lang="en">Drive Time</title>
+    <desc lang="en">Afternoon show program, yang membahas sebuah topik secara santai, namun tetap menggali informasi secara mendalam. Juga lengkap dengan pandangan para narsumber terkait. Drive Time mulai Senin-Jum’at jam 16.00–20.00 WIB Bersama Esna Ardianny dan Akbari Madjid</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/DRIVE-TIME-1024x1024.jpg" />
+  </programme>
+  <programme start="20230308200000 +0700" stop="20230308220000 +0700" channel="Most 1058">
+    <title lang="en">After Hours</title>
+    <desc lang="en">Bersama Justine Viddy | Setiap Senin-Jum’at dari jam 20.00– 22.00 WIB. Program ini berisi update-update informasi harian sejak siang hingga malam hari mulai dari informasi lokal, nasional, internasional dan juga olahraga yang disampaikan dengan singkat dan lugas, membuat Most People tidak melewatkan berbagai informasi terkini</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-HOURS-1024x1024.jpg" />
+  </programme>
+  <programme start="20230308220000 +0700" stop="20230309060000 +0700" channel="Most 1058">
+    <title lang="en">Most 1058</title>
+    <desc lang="en">Musik non-stop</desc>
+  </programme>
+  <programme start="20230309060000 +0700" stop="20230309100000 +0700" channel="Most 1058">
+    <title lang="en">Prime Time</title>
+    <desc lang="en">Morning show program yang membahas berbagai trending issues. Lengkap dengan pandangan para narasumber terkait, dipandu Arlingga Panega dan Indy Rahmawati, Prime Time MOST1058 on air tiap Senin-Jum’at mulai jam 06.00–10.00 WIB dan menawarkan cara yang lebih santai menikmati informasi.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/PRIME-TIME-1-1024x1024.jpg" />
+  </programme>
+  <programme start="20230309100000 +0700" stop="20230309130000 +0700" channel="Most 1058">
+    <title lang="en">Daily News</title>
+    <desc lang="en">Ditemani oleh Andryan Eswe, Senin-Jum’at jam 10.00–13.00 WIB. Program ini berisi update-update informasi harian sejak pagi hingga siang hari mulai dari informasi lokal, nasional, internasional, dan juga olahraga yang disampaikan dengan singkat dan lugas, membuat Most People tidak melewatkan berbagai informasi terkini.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/DAILY-NEWS-1024x1024.jpg" />
+  </programme>
+  <programme start="20230309130000 +0700" stop="20230309160000 +0700" channel="Most 1058">
+    <title lang="en">After Lunch</title>
+    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13 – 16 WIB</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-LUNCH-1024x1024.jpg" />
+  </programme>
+  <programme start="20230309160000 +0700" stop="20230309200000 +0700" channel="Most 1058">
+    <title lang="en">Drive Time</title>
+    <desc lang="en">Afternoon show program, yang membahas sebuah topik secara santai, namun tetap menggali informasi secara mendalam. Juga lengkap dengan pandangan para narsumber terkait. Drive Time mulai Senin-Jum’at jam 16.00–20.00 WIB Bersama Esna Ardianny dan Akbari Madjid</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/DRIVE-TIME-1024x1024.jpg" />
+  </programme>
+  <programme start="20230309200000 +0700" stop="20230309220000 +0700" channel="Most 1058">
+    <title lang="en">After Hours</title>
+    <desc lang="en">Bersama Justine Viddy | Setiap Senin-Jum’at dari jam 20.00– 22.00 WIB. Program ini berisi update-update informasi harian sejak siang hingga malam hari mulai dari informasi lokal, nasional, internasional dan juga olahraga yang disampaikan dengan singkat dan lugas, membuat Most People tidak melewatkan berbagai informasi terkini</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-HOURS-1024x1024.jpg" />
+  </programme>
+  <programme start="20230309220000 +0700" stop="20230310060000 +0700" channel="Most 1058">
+    <title lang="en">Jak Non-stop Music</title>
+    <desc lang="en">Musik non-stop</desc>
+  </programme>
+  <programme start="20230310060000 +0700" stop="20230310100000 +0700" channel="Most 1058">
+    <title lang="en">Prime Time</title>
+    <desc lang="en">Morning show program yang membahas berbagai trending issues. Lengkap dengan pandangan para narasumber terkait, dipandu Arlingga Panega dan Indy Rahmawati, Prime Time MOST1058 on air tiap Senin-Jum’at mulai jam 06.00–10.00 WIB dan menawarkan cara yang lebih santai menikmati informasi.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/PRIME-TIME-1-1024x1024.jpg" />
+  </programme>
+  <programme start="20230310100000 +0700" stop="20230310130000 +0700" channel="Most 1058">
+    <title lang="en">Daily News</title>
+    <desc lang="en">Ditemani oleh Andryan Eswe, Senin-Jum’at jam 10.00–13.00 WIB. Program ini berisi update-update informasi harian sejak pagi hingga siang hari mulai dari informasi lokal, nasional, internasional, dan juga olahraga yang disampaikan dengan singkat dan lugas, membuat Most People tidak melewatkan berbagai informasi terkini.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/DAILY-NEWS-1024x1024.jpg" />
+  </programme>
+  <programme start="20230310130000 +0700" stop="20230310160000 +0700" channel="Most 1058">
+    <title lang="en">After Lunch</title>
+    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13 – 16 WIB</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-LUNCH-1024x1024.jpg" />
+  </programme>
+  <programme start="20230310160000 +0700" stop="20230310200000 +0700" channel="Most 1058">
+    <title lang="en">Drive Time</title>
+    <desc lang="en">Afternoon show program, yang membahas sebuah topik secara santai, namun tetap menggali informasi secara mendalam. Juga lengkap dengan pandangan para narsumber terkait. Drive Time mulai Senin-Jum’at jam 16.00–20.00 WIB Bersama Esna Ardianny dan Akbari Madjid</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/DRIVE-TIME-1024x1024.jpg" />
+  </programme>
+  <programme start="20230310200000 +0700" stop="20230310220000 +0700" channel="Most 1058">
+    <title lang="en">After Hours</title>
+    <desc lang="en">Bersama Justine Viddy | Setiap Senin-Jum’at dari jam 20.00– 22.00 WIB. Program ini berisi update-update informasi harian sejak siang hingga malam hari mulai dari informasi lokal, nasional, internasional dan juga olahraga yang disampaikan dengan singkat dan lugas, membuat Most People tidak melewatkan berbagai informasi terkini</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-HOURS-1024x1024.jpg" />
+  </programme>
+  <programme start="20230310220000 +0700" stop="20230311070000 +0700" channel="Most 1058">
+    <title lang="en">Most 1058</title>
+    <desc lang="en">Musik non-stop</desc>
+  </programme>
+  <programme start="20230311070000 +0700" stop="20230311100000 +0700" channel="Most 1058">
+    <title lang="en">Top News This Week</title>
+    <desc lang="en">Rekapan informasi-informasi penting selama seminggu bersama Ryan Ardhiana, setiap Sabtu jam 07.00–10.00 WIB</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/TOP-NEWS-THIS-WEEK-1024x1024.jpg" />
+  </programme>
+  <programme start="20230311100000 +0700" stop="20230311130000 +0700" channel="Most 1058">
+    <title lang="en">News Weekend</title>
+    <desc lang="en">Program weekend yang berisi informasi-informasi menarik, tiap Sabtu dan Minggu, mulai dari jam 07.00–20.00 WIB. Dipandu oleh newscaster-newscaster handal MOST1058 antara lain Justine Viddy, Andryan Eswe, Diandra Canti dan Gabriella Somba.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/NEWS-WEEKEND-GS-768x768.jpg" />
+  </programme>
+  <programme start="20230311130000 +0700" stop="20230311160000 +0700" channel="Most 1058">
+    <title lang="en">News Weekend</title>
+    <desc lang="en">Program weekend yang berisi informasi-informasi menarik, tiap Sabtu dan Minggu, mulai dari jam 07.00–20.00 WIB. Dipandu oleh newscaster-newscaster handal MOST1058 antara lain Justine Viddy, Andryan Eswe, Diandra Canti dan Gabriella Somba.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/NEWS-WEEKEND-DC-768x768.jpg" />
+  </programme>
+  <programme start="20230311160000 +0700" stop="20230311200000 +0700" channel="Most 1058">
+    <title lang="en">News Weekend</title>
+    <desc lang="en">Program weekend yang berisi informasi-informasi menarik, tiap Sabtu dan Minggu, mulai dari jam 07.00–20.00 WIB. Dipandu oleh newscaster-newscaster handal MOST1058 antara lain Justine Viddy, Andryan Eswe, Diandra Canti dan Gabriella Somba.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/NEWS-WEEKEND-AE-768x768.jpg" />
+  </programme>
+  <programme start="20230311200000 +0700" stop="20230312070000 +0700" channel="Most 1058">
+    <title lang="en">Most 1058</title>
+    <desc lang="en">Musik non-stop</desc>
+  </programme>
+  <programme start="20230312070000 +0700" stop="20230312100000 +0700" channel="Most 1058">
+    <title lang="en">News Weekend</title>
+    <desc lang="en">Program weekend yang berisi informasi-informasi menarik, tiap Sabtu dan Minggu, mulai dari jam 07.00–20.00 WIB. Dipandu oleh newscaster-newscaster handal MOST1058 antara lain Justine Viddy, Andryan Eswe, Diandra Canti dan Gabriella Somba.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/NEWS-WEEKEND-JV-768x768.jpg" />
+  </programme>
+  <programme start="20230312100000 +0700" stop="20230312130000 +0700" channel="Most 1058">
+    <title lang="en">News Weekend</title>
+    <desc lang="en">Program weekend yang berisi informasi-informasi menarik, tiap Sabtu dan Minggu, mulai dari jam 07.00–20.00 WIB. Dipandu oleh newscaster-newscaster handal MOST1058 antara lain Justine Viddy, Andryan Eswe, Diandra Canti dan Gabriella Somba.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/NEWS-WEEKEND-GS-768x768.jpg" />
+  </programme>
+  <programme start="20230312130000 +0700" stop="20230312160000 +0700" channel="Most 1058">
+    <title lang="en">News Weekend</title>
+    <desc lang="en">Program weekend yang berisi informasi-informasi menarik, tiap Sabtu dan Minggu, mulai dari jam 07.00–20.00 WIB. Dipandu oleh newscaster-newscaster handal MOST1058 antara lain Justine Viddy, Andryan Eswe, Diandra Canti dan Gabriella Somba.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/NEWS-WEEKEND-DC-768x768.jpg" />
+  </programme>
+  <programme start="20230312160000 +0700" stop="20230312200000 +0700" channel="Most 1058">
+    <title lang="en">News Weekend</title>
+    <desc lang="en">Program weekend yang berisi informasi-informasi menarik, tiap Sabtu dan Minggu, mulai dari jam 07.00–20.00 WIB. Dipandu oleh newscaster-newscaster handal MOST1058 antara lain Justine Viddy, Andryan Eswe, Diandra Canti dan Gabriella Somba.</desc>
+    <icon src="https://most1058fm.com/wp-content/uploads/2023/02/NEWS-WEEKEND-AE-768x768.jpg" />
+  </programme>
+  <programme start="20230312000000 +0700" stop="20230313060000 +0700" channel="Most 1058">
+    <title lang="en">Most 1058</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
 </tv>
