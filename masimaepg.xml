@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.3.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Delta">
+    <display-name lang="en">Delta FM</display-name>
+    <url>http://www.deltafm.net</url>
+  </channel>
+  <channel id="Prambors">
+    <display-name lang="en">Prambors Radio</display-name>
+    <url>http://www.pramborsfm.com</url>
+  </channel>
+  <channel id="Bahana">
+    <display-name lang="en">Bahana FM</display-name>
+    <url>http://www.bahanafm.co.id</url>
+  </channel>
+  <programme start="20230306000000 +0700" stop="20230306060000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230306060000 +0700" stop="20230306100000 +0700" channel="Delta">
+    <title lang="en">Good Morning Indonesia</title>
+    <desc lang="en">The show that makes you feel good in the morning</desc>
+    <icon src="https://i.imgur.com/ZT0Khlr.jpg" />
+  </programme>
+  <programme start="20230306100000 +0700" stop="20230306160000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230306160000 +0700" stop="20230306200000 +0700" channel="Delta">
+    <title lang="en">Afternoon Feel Good</title>
+    <desc lang="en">Your loveable best friends in the afternoon</desc>
+    <icon src="https://i.imgur.com/IYAguTa.jpg" />
+  </programme>
+  <programme start="20230306200000 +0700" stop="20230307000000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230307000000 +0700" stop="20230307060000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230307060000 +0700" stop="20230307100000 +0700" channel="Delta">
+    <title lang="en">Good Morning Indonesia</title>
+    <desc lang="en">The show that makes you feel good in the morning</desc>
+    <icon src="https://i.imgur.com/ZT0Khlr.jpg" />
+  </programme>
+  <programme start="20230307100000 +0700" stop="20230307160000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230307160000 +0700" stop="20230307200000 +0700" channel="Delta">
+    <title lang="en">Afternoon Feel Good</title>
+    <desc lang="en">Your loveable best friends in the afternoon</desc>
+    <icon src="https://i.imgur.com/IYAguTa.jpg" />
+  </programme>
+  <programme start="20230307200000 +0700" stop="20230308000000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230308000000 +0700" stop="20230308060000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230308060000 +0700" stop="20230308100000 +0700" channel="Delta">
+    <title lang="en">Good Morning Indonesia</title>
+    <desc lang="en">The show that makes you feel good in the morning</desc>
+    <icon src="https://i.imgur.com/ZT0Khlr.jpg" />
+  </programme>
+  <programme start="20230308100000 +0700" stop="20230308160000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230308160000 +0700" stop="20230308200000 +0700" channel="Delta">
+    <title lang="en">Afternoon Feel Good</title>
+    <desc lang="en">Your loveable best friends in the afternoon</desc>
+    <icon src="https://i.imgur.com/IYAguTa.jpg" />
+  </programme>
+  <programme start="20230308200000 +0700" stop="20230309000000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230309000000 +0700" stop="20230309060000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230309060000 +0700" stop="20230309100000 +0700" channel="Delta">
+    <title lang="en">Good Morning Indonesia</title>
+    <desc lang="en">The show that makes you feel good in the morning</desc>
+    <icon src="https://i.imgur.com/ZT0Khlr.jpg" />
+  </programme>
+  <programme start="20230309100000 +0700" stop="20230309160000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230309160000 +0700" stop="20230309200000 +0700" channel="Delta">
+    <title lang="en">Afternoon Feel Good</title>
+    <desc lang="en">Your loveable best friends in the afternoon</desc>
+    <icon src="https://i.imgur.com/IYAguTa.jpg" />
+  </programme>
+  <programme start="20230309200000 +0700" stop="20230310000000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230310000000 +0700" stop="20230310060000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230310060000 +0700" stop="20230310100000 +0700" channel="Delta">
+    <title lang="en">Good Morning Indonesia</title>
+    <desc lang="en">The show that makes you feel good in the morning</desc>
+    <icon src="https://i.imgur.com/ZT0Khlr.jpg" />
+  </programme>
+  <programme start="20230310100000 +0700" stop="20230310160000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230310160000 +0700" stop="20230310200000 +0700" channel="Delta">
+    <title lang="en">Afternoon Feel Good</title>
+    <desc lang="en">Your loveable best friends in the afternoon</desc>
+    <icon src="https://i.imgur.com/IYAguTa.jpg" />
+  </programme>
+  <programme start="20230310200000 +0700" stop="20230311000000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230311000000 +0700" stop="20230311060000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230311060000 +0700" stop="20230311100000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230311100000 +0700" stop="20230311160000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230311160000 +0700" stop="20230311200000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230311200000 +0700" stop="20230312000000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230312000000 +0700" stop="20230312060000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230312060000 +0700" stop="20230312100000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230312100000 +0700" stop="20230312160000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230312160000 +0700" stop="20230312200000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230312200000 +0700" stop="20230313000000 +0700" channel="Delta">
+    <title lang="en">Delta FM</title>
+    <desc lang="en">Lagu Terenak</desc>
+    <icon src="https://i.imgur.com/wqDGukf.jpg" />
+  </programme>
+  <programme start="20230306000000 +0700" stop="20230306060000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230306060000 +0700" stop="20230306100000 +0700" channel="Prambors">
+    <title lang="en">Mangkal Pagi Ryo</title>
+    <desc lang="en">Ryo Wicaksono dan tetamu bakal menceriakan pagi hari kamu, Kawula Muda!</desc>
+  </programme>
+  <programme start="20230306100000 +0700" stop="20230306160000 +0700" channel="Prambors">
+    <title lang="en">DJ Show</title>
+    <desc lang="en">Lagu-lagu pilihan dan info terkini bakal dibagiin wadyabala buat kamu</desc>
+  </programme>
+  <programme start="20230306160000 +0700" stop="20230306200000 +0700" channel="Prambors">
+    <title lang="en">Sunset Trip</title>
+    <desc lang="en">Lagi santai di sore hari? Genus dan Julio siap nemenin kamu</desc>
+  </programme>
+  <programme start="20230306200000 +0700" stop="20230307000000 +0700" channel="Prambors">
+    <title lang="en">Prambors Night Shift</title>
+    <desc lang="en">Malam hari kamu bakal lebih berwarna bersama Eda dengan segala keseruannya</desc>
+  </programme>
+    <programme start="20230307000000 +0700" stop="20230307060000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230307060000 +0700" stop="20230307100000 +0700" channel="Prambors">
+    <title lang="en">Mangkal Pagi Ryo</title>
+    <desc lang="en">Ryo Wicaksono dan tetamu bakal menceriakan pagi hari kamu, Kawula Muda!</desc>
+  </programme>
+  <programme start="20230307100000 +0700" stop="20230307160000 +0700" channel="Prambors">
+    <title lang="en">DJ Show</title>
+    <desc lang="en">Lagu-lagu pilihan dan info terkini bakal dibagiin wadyabala buat kamu</desc>
+  </programme>
+  <programme start="20230307160000 +0700" stop="20230307200000 +0700" channel="Prambors">
+    <title lang="en">Sunset Trip</title>
+    <desc lang="en">Lagi santai di sore hari? Genus dan Julio siap nemenin kamu</desc>
+  </programme>
+  <programme start="20230307200000 +0700" stop="20230308000000 +0700" channel="Prambors">
+    <title lang="en">Prambors Night Shift</title>
+    <desc lang="en">Malam hari kamu bakal lebih berwarna bersama Eda dengan segala keseruannya</desc>
+  </programme>
+  <programme start="20230308000000 +0700" stop="20230308060000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230308060000 +0700" stop="20230308100000 +0700" channel="Prambors">
+    <title lang="en">Mangkal Pagi Ryo</title>
+    <desc lang="en">Ryo Wicaksono dan tetamu bakal menceriakan pagi hari kamu, Kawula Muda!</desc>
+  </programme>
+  <programme start="20230308100000 +0700" stop="20230308160000 +0700" channel="Prambors">
+    <title lang="en">DJ Show</title>
+    <desc lang="en">Lagu-lagu pilihan dan info terkini bakal dibagiin wadyabala buat kamu</desc>
+  </programme>
+  <programme start="20230308160000 +0700" stop="20230308200000 +0700" channel="Prambors">
+    <title lang="en">Sunset Trip</title>
+    <desc lang="en">Lagi santai di sore hari? Genus dan Julio siap nemenin kamu</desc>
+  </programme>
+  <programme start="20230308200000 +0700" stop="20230309000000 +0700" channel="Prambors">
+    <title lang="en">Prambors Night Shift</title>
+    <desc lang="en">Malam hari kamu bakal lebih berwarna bersama Eda dengan segala keseruannya</desc>
+  </programme>
+  <programme start="20230309000000 +0700" stop="20230309060000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230309060000 +0700" stop="20230309100000 +0700" channel="Prambors">
+    <title lang="en">Mangkal Pagi Ryo</title>
+    <desc lang="en">Ryo Wicaksono dan tetamu bakal menceriakan pagi hari kamu, Kawula Muda!</desc>
+  </programme>
+  <programme start="20230309100000 +0700" stop="20230309160000 +0700" channel="Prambors">
+    <title lang="en">DJ Show</title>
+    <desc lang="en">Lagu-lagu pilihan dan info terkini bakal dibagiin wadyabala buat kamu</desc>
+  </programme>
+  <programme start="20230309160000 +0700" stop="20230309200000 +0700" channel="Prambors">
+    <title lang="en">Sunset Trip</title>
+    <desc lang="en">Lagi santai di sore hari? Genus dan Julio siap nemenin kamu</desc>
+  </programme>
+  <programme start="20230309200000 +0700" stop="20230310000000 +0700" channel="Prambors">
+    <title lang="en">Prambors Night Shift</title>
+    <desc lang="en">Malam hari kamu bakal lebih berwarna bersama Eda dengan segala keseruannya</desc>
+  </programme>
+  <programme start="20230310000000 +0700" stop="20230310060000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230310060000 +0700" stop="20230310100000 +0700" channel="Prambors">
+    <title lang="en">Mangkal Pagi Ryo</title>
+    <desc lang="en">Ryo Wicaksono dan tetamu bakal menceriakan pagi hari kamu, Kawula Muda!</desc>
+  </programme>
+  <programme start="20230310100000 +0700" stop="20230310160000 +0700" channel="Prambors">
+    <title lang="en">DJ Show</title>
+    <desc lang="en">Lagu-lagu pilihan dan info terkini bakal dibagiin wadyabala buat kamu</desc>
+  </programme>
+  <programme start="20230310160000 +0700" stop="20230310200000 +0700" channel="Prambors">
+    <title lang="en">Sunset Trip</title>
+    <desc lang="en">Lagi santai di sore hari? Genus dan Julio siap nemenin kamu</desc>
+  </programme>
+  <programme start="20230310200000 +0700" stop="20230311000000 +0700" channel="Prambors">
+    <title lang="en">Prambors Night Shift</title>
+    <desc lang="en">Malam hari kamu bakal lebih berwarna bersama Eda dengan segala keseruannya</desc>
+  </programme>
+  <programme start="20230311000000 +0700" stop="20230311060000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230311060000 +0700" stop="20230311100000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230311100000 +0700" stop="20230311160000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230311160000 +0700" stop="20230311200000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230311200000 +0700" stop="20230312000000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230312000000 +0700" stop="20230312060000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230312060000 +0700" stop="20230312100000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230312100000 +0700" stop="20230312160000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230312160000 +0700" stop="20230312200000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230312200000 +0700" stop="20230313000000 +0700" channel="Prambors">
+    <title lang="en">Prambors</title>
+    <desc lang="en">Indonesia's No. 1 Hit Music Station</desc>
+  </programme>
+  <programme start="20230306000000 +0700" stop="20230306060000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230306060000 +0700" stop="20230306100000 +0700" channel="Bahana">
+    <title lang="en">Good Morning Indonesia</title>
+    <desc lang="en">The show that makes you feel good in the morning</desc>
+    <icon src="https://i.imgur.com/ZT0Khlr.jpg" />
+  </programme>
+  <programme start="20230306100000 +0700" stop="20230306160000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230306160000 +0700" stop="20230306200000 +0700" channel="Bahana">
+    <title lang="en">Afternoon Feel Good</title>
+    <desc lang="en">Your loveable best friends in the afternoon</desc>
+    <icon src="https://i.imgur.com/IYAguTa.jpg" />
+  </programme>
+  <programme start="20230306200000 +0700" stop="20230307000000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230307000000 +0700" stop="20230307060000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230307060000 +0700" stop="20230307100000 +0700" channel="Bahana">
+    <title lang="en">Good Morning Indonesia</title>
+    <desc lang="en">The show that makes you feel good in the morning</desc>
+    <icon src="https://i.imgur.com/ZT0Khlr.jpg" />
+  </programme>
+  <programme start="20230307100000 +0700" stop="20230307160000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230307160000 +0700" stop="20230307200000 +0700" channel="Bahana">
+    <title lang="en">Afternoon Feel Good</title>
+    <desc lang="en">Your loveable best friends in the afternoon</desc>
+    <icon src="https://i.imgur.com/IYAguTa.jpg" />
+  </programme>
+  <programme start="20230307200000 +0700" stop="20230308000000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230308000000 +0700" stop="20230308060000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230308060000 +0700" stop="20230308100000 +0700" channel="Bahana">
+    <title lang="en">Good Morning Indonesia</title>
+    <desc lang="en">The show that makes you feel good in the morning</desc>
+    <icon src="https://i.imgur.com/ZT0Khlr.jpg" />
+  </programme>
+  <programme start="20230308100000 +0700" stop="20230308160000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230308160000 +0700" stop="20230308200000 +0700" channel="Bahana">
+    <title lang="en">Afternoon Feel Good</title>
+    <desc lang="en">Your loveable best friends in the afternoon</desc>
+    <icon src="https://i.imgur.com/IYAguTa.jpg" />
+  </programme>
+  <programme start="20230308200000 +0700" stop="20230309000000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230309000000 +0700" stop="20230309060000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230309060000 +0700" stop="20230309100000 +0700" channel="Bahana">
+    <title lang="en">Good Morning Indonesia</title>
+    <desc lang="en">The show that makes you feel good in the morning</desc>
+    <icon src="https://i.imgur.com/ZT0Khlr.jpg" />
+  </programme>
+  <programme start="20230309100000 +0700" stop="20230309160000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230309160000 +0700" stop="20230309200000 +0700" channel="Bahana">
+    <title lang="en">Afternoon Feel Good</title>
+    <desc lang="en">Your loveable best friends in the afternoon</desc>
+    <icon src="https://i.imgur.com/IYAguTa.jpg" />
+  </programme>
+  <programme start="20230309200000 +0700" stop="20230310000000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230310000000 +0700" stop="20230310060000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230310060000 +0700" stop="20230310100000 +0700" channel="Bahana">
+    <title lang="en">Good Morning Indonesia</title>
+    <desc lang="en">The show that makes you feel good in the morning</desc>
+    <icon src="https://i.imgur.com/ZT0Khlr.jpg" />
+  </programme>
+  <programme start="20230310100000 +0700" stop="20230310160000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230310160000 +0700" stop="20230310200000 +0700" channel="Bahana">
+    <title lang="en">Afternoon Feel Good</title>
+    <desc lang="en">Your loveable best friends in the afternoon</desc>
+    <icon src="https://i.imgur.com/IYAguTa.jpg" />
+  </programme>
+  <programme start="20230310200000 +0700" stop="20230311000000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230311000000 +0700" stop="20230311060000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230311060000 +0700" stop="20230311100000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230311100000 +0700" stop="20230311160000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230311160000 +0700" stop="20230311200000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230311200000 +0700" stop="20230312000000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230312000000 +0700" stop="20230312060000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230312060000 +0700" stop="20230312100000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230312100000 +0700" stop="20230312160000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230312160000 +0700" stop="20230312200000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+  <programme start="20230312200000 +0700" stop="20230313000000 +0700" channel="Bahana">
+    <title lang="en">Bahana FM</title>
+    <desc lang="en">Hits Indonesia Terbaik</desc>
+  </programme>
+</tv>
