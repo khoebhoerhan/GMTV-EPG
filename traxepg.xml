@@ -35,6 +35,10 @@
     <title lang="en">Trax FM Semarang</title>
     <desc lang="en">Trax Tanpa Batas</desc>
   </programme>
+  <programme start="20230307000000 +0700" stop="20230307060000 +0700" channel="Trax SMG">
+    <title lang="en">Trax FM Semarang</title>
+    <desc lang="en">Trax Tanpa Batas</desc>
+  </programme>
   <programme start="20230307060000 +0700" stop="20230307100000 +0700" channel="Trax SMG">
     <title lang="en">Morning Zone</title>
     <desc lang="en">Trax Tanpa Batas: Your favourite morning show</desc>
@@ -239,6 +243,10 @@
     <icon src="https://traxonsky.com/wp-content/uploads/2022/01/TNO-scaled.jpg" />
   </programme>
   <programme start="20230306220000 +0700" stop="20230307000000 +0700" channel="Trax PLG">
+    <title lang="en">Trax FM Palembang</title>
+    <desc lang="en">Trax Tanpa Batas</desc>
+  </programme>
+  <programme start="20230307000000 +0700" stop="20230307060000 +0700" channel="Trax PLG">
     <title lang="en">Trax FM Palembang</title>
     <desc lang="en">Trax Tanpa Batas</desc>
   </programme>
