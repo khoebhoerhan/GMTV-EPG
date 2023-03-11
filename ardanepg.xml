@@ -8,45 +8,45 @@
     <display-name lang="en">B-Radio</display-name>
     <url>http://www.bradio956.fm</url>
   </channel>
-  <programme start="20230306000000 +0700" stop="20230306020000 +0700" channel="Ardan">
+  <programme start="20230313000000 +0700" stop="20230313020000 +0700" channel="Ardan">
     <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
     <desc lang="en">Program yang bisa menemani waktu istirahat malam, terutama bagi yang begadang atau sulit tidur</desc>
     <icon src="https://i.imgur.com/wW6O4jO.jpg" />
   </programme>
-  <programme start="20230306020000 +0700" stop="20230306050000 +0700" channel="Ardan">
+  <programme start="20230313020000 +0700" stop="20230313050000 +0700" channel="Ardan">
     <title lang="en">Non-stop Music</title>
     <desc lang="en">Musik dinihari selama 180 menit penuh.</desc>
   </programme>
-  <programme start="20230306050000 +0700" stop="20230306060000 +0700" channel="Ardan">
+  <programme start="20230313050000 +0700" stop="20230313060000 +0700" channel="Ardan">
     <title lang="en">School & Lovely Show</title>
     <desc lang="en">Program yang dipandu oleh anggota Ardan School untuk menemani siswa-siswi SMA menyiapkan diri ke sekolah, yang juga melayani request lagu.</desc>
   </programme>
-  <programme start="20230306060000 +0700" stop="20230306090000 +0700" channel="Ardan">
+  <programme start="20230313060000 +0700" stop="20230313090000 +0700" channel="Ardan">
     <title lang="en">Cipaganti (Cinta Pagi di Bandung City)</title>
     <desc lang="en">Program pagi andalan Ardan Radio yang dibawakan oleh Iqbal Ramadhan dan Syarlita. Insan muda akan dimanjakan obrolan dan candaan seru serta lagu-lagu yang cool & lovely.</desc>
     <icon src="https://i.imgur.com/DAtutwg.png" />
   </programme>
-  <programme start="20230306090000 +0700" stop="20230306120000 +0700" channel="Ardan">
+  <programme start="20230313090000 +0700" stop="20230313120000 +0700" channel="Ardan">
     <title lang="en">Ardanesia</title>
     <desc lang="en">Program yang memutarkan 100% musik Indonesia. Insan muda juga bisa request lagu dan ada kalanya mendengarkan langsung obrolan dan penampilan musisi Indonesia yang hadir di studio.</desc>
     <icon src="https://i.imgur.com/lfccZZH.png" />
   </programme>
-  <programme start="20230306120000 +0700" stop="20230306150000 +0700" channel="Ardan">
+  <programme start="20230313120000 +0700" stop="20230313150000 +0700" channel="Ardan">
     <title lang="en">LDR (Lunch Date Relationship)</title>
     <desc lang="en">Menemani makan siang insan muda, Natasya Aurelia hadir dengan lagu-lagu barat dan Korea favorit. Ada juga perbincangan dan informasi hiburan, serta layanan request lagu.</desc>
     <icon src="https://i.imgur.com/6WCcUOl.png" />
   </programme>
-  <programme start="20230306150000 +0700" stop="20230306180000 +0700" channel="Ardan">
+  <programme start="20230313150000 +0700" stop="20230313180000 +0700" channel="Ardan">
     <title lang="en">Hegarmanah (Heboh Segar Ngeunah)</title>
     <desc lang="en">Saatnya ditemani Dimasta dan Buana Lintang yang akan menyegarkan sore hari kamu dengan musik dan candaan yang menyenangkan. Ada juga obrolan dan layanan curhat.</desc>
     <icon src="https://i.imgur.com/MYoNOYy.jpg" />
   </programme>
-  <programme start="20230306180000 +0700" stop="20230306220000 +0700" channel="Ardan">
+  <programme start="20230313180000 +0700" stop="20230313220000 +0700" channel="Ardan">
     <title lang="en">Riauw (Rikues Lah Yauw)</title>
     <desc lang="en">Mau request lagu? Lakukan sepuasnya karena ada Adinda Putri Thalita yang akan memutarkan lagu-lagu pilihan kalian.</desc>
     <icon src="https://i.imgur.com/ZtVqAJL.jpg" />
   </programme>
-  <programme start="20230306220000 +0700" stop="20230307000000 +0700" channel="Ardan">
+  <programme start="20230313220000 +0700" stop="20230314000000 +0700" channel="Ardan">
     <title lang="en">Bandung Banget</title>
     <desc lang="en">Bersama Diki Irdan, insan muda diajak untuk update berbagai informasi mengenai Kota Bandung dan ngobrol bersama berbagai komunitas.</desc>
     <icon src="https://i.imgur.com/bngInkG.png" />
