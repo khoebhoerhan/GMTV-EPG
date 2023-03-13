@@ -16,7 +16,7 @@
     <display-name lang="en">Most Radio Jakarta</display-name>
     <url>http://www.most1058fm.com</url>
   </channel>
-  <programme start="20230312200000 +0700" stop="20230313060000 +0700" channel="Gen JKT">
+  <programme start="20230319200000 +0700" stop="20230320060000 +0700" channel="Gen JKT">
     <title lang="en">Gen Musik Terus</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
@@ -194,12 +194,12 @@
     <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
     <icon src="https://gen987fm.com/uploads/program/pap-34441c180dde4a0.jpeg" />
   </programme>
-  <programme start="20230312170000 +0700" stop="20230312200000 +0700" channel="Gen JKT">
+  <programme start="20230319170000 +0700" stop="20230319200000 +0700" channel="Gen JKT">
     <title lang="en">PAP Malam (Playlist Akhir Pekan)</title>
     <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
     <icon src="https://gen987fm.com/uploads/program/pap-444691f053fb5f9.jpeg" />
   </programme>
-    <programme start="20230312220000 +0700" stop="20230313060000 +0700" channel="Gen SBY">
+    <programme start="20230319220000 +0700" stop="20230320060000 +0700" channel="Gen SBY">
     <title lang="en">Gen Musik Terus</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
@@ -410,30 +410,30 @@
     <title lang="en">Gen Musik Terus</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
-  <programme start="20230312070000 +0700" stop="20230312100000 +0700" channel="Gen SBY">
+  <programme start="20230319070000 +0700" stop="20230319100000 +0700" channel="Gen SBY">
     <title lang="en">Gen Weekend Show</title>
     <desc lang="en">Ceriakan weekend kamu bersama Gen FM!</desc>
     <icon src="https://gen1031fm.com/assets/uploads/photos/2022/07/14/1716241WEB-BANNER-GWS-GADIS-IRENE.jpg" />
   </programme>
-  <programme start="20230312100000 +0700" stop="20230312120000 +0700" channel="Gen SBY">
+  <programme start="20230319100000 +0700" stop="20230319120000 +0700" channel="Gen SBY">
     <title lang="en">Gen Musik Terus</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
-  <programme start="20230312120000 +0700" stop="20230312160000 +0700" channel="Gen SBY">
+  <programme start="20230319120000 +0700" stop="20230319160000 +0700" channel="Gen SBY">
     <title lang="en">Suroboyo Pooll</title>
     <desc lang="en">Ceriakan weekend kamu bersama Gen FM!</desc>
     <icon src="https://gen1031fm.com/assets/uploads/photos/2022/07/14/1723536WEB-BANNER-SUROBOYO-POOLL-VETTO.jpg" />
   </programme>
-  <programme start="20230312160000 +0700" stop="20230312190000 +0700" channel="Gen SBY">
+  <programme start="20230319160000 +0700" stop="20230319190000 +0700" channel="Gen SBY">
     <title lang="en">Gen Musik Terus</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
-  <programme start="20230312190000 +0700" stop="20230312220000 +0700" channel="Gen SBY">
+  <programme start="20230319190000 +0700" stop="20230319220000 +0700" channel="Gen SBY">
     <title lang="en">Gen Weekend Show</title>
     <desc lang="en">Ceriakan weekend kamu bersama Gen FM!</desc>
     <icon src="https://gen1031fm.com/assets/uploads/photos/2022/07/14/1716241WEB-BANNER-GWS-GADIS-IRENE.jpg" />
   </programme>
-  <programme start="20230312200000 +0700" stop="20230313060000 +0700" channel="Jak FM">
+  <programme start="20230319200000 +0700" stop="20230320060000 +0700" channel="Jak FM">
     <title lang="en">Jak Non-stop Music</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
@@ -621,16 +621,16 @@
     <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, weekend kamu nggak akan pernah terasa sepi sendirian!</desc>
     <icon src="https://jak101fm.com/wp-content/uploads/2023/01/06.JAK-BEST-MUSIC_Tjiang_Weekend-13-16.png" />
   </programme>
-  <programme start="20230312160000 +0700" stop="20230312200000 +0700" channel="Jak FM">
+  <programme start="20230319160000 +0700" stop="20230319200000 +0700" channel="Jak FM">
     <title lang="en">Jak Best Music</title>
     <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, weekend kamu nggak akan pernah terasa sepi sendirian!</desc>
     <icon src="https://jak101fm.com/wp-content/uploads/2023/01/07.JAK-BEST-MUSIC_-Egard-Dewo_Weekend-16-20.png" />
   </programme>
-  <programme start="20230312200000 +0700" stop="20230313060000 +0700" channel="Jak FM">
+  <programme start="20230319200000 +0700" stop="20230320060000 +0700" channel="Jak FM">
     <title lang="en">Jak Non-stop Music</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
-    <programme start="20230312200000 +0700" stop="20230313060000 +0700" channel="Most 1058">
+    <programme start="20230319200000 +0700" stop="20230320060000 +0700" channel="Most 1058">
     <title lang="en">Most 1058</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
@@ -818,12 +818,12 @@
     <desc lang="en">Program weekend yang berisi informasi-informasi menarik, tiap Sabtu dan Minggu, mulai dari jam 07.00–20.00 WIB. Dipandu oleh newscaster-newscaster handal MOST1058 antara lain Justine Viddy, Andryan Eswe, Diandra Canti dan Gabriella Somba.</desc>
     <icon src="https://most1058fm.com/wp-content/uploads/2023/02/NEWS-WEEKEND-DC-768x768.jpg" />
   </programme>
-  <programme start="20230312160000 +0700" stop="20230312200000 +0700" channel="Most 1058">
+  <programme start="20230319160000 +0700" stop="20230319200000 +0700" channel="Most 1058">
     <title lang="en">News Weekend</title>
     <desc lang="en">Program weekend yang berisi informasi-informasi menarik, tiap Sabtu dan Minggu, mulai dari jam 07.00–20.00 WIB. Dipandu oleh newscaster-newscaster handal MOST1058 antara lain Justine Viddy, Andryan Eswe, Diandra Canti dan Gabriella Somba.</desc>
     <icon src="https://most1058fm.com/wp-content/uploads/2023/02/NEWS-WEEKEND-AE-768x768.jpg" />
   </programme>
-  <programme start="20230312000000 +0700" stop="20230313060000 +0700" channel="Most 1058">
+  <programme start="20230319200000 +0700" stop="20230320060000 +0700" channel="Most 1058">
     <title lang="en">Most 1058</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
