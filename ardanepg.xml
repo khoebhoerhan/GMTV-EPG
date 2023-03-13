@@ -295,15 +295,15 @@
     <desc lang="en">Program yang isinya 100% musik indie bersama Keefe dan Yas Budaya, yang juga menampilkan musisi indie pilihan langsung di studio dan tangga lagu indie favorit.</desc>
     <icon src="https://i.imgur.com/EbefLiH.jpg" />
   </programme>
-  <programme start="20230312180000 +0700" stop="20230312200000 +0700" channel="Ardan">
+  <programme start="20230319180000 +0700" stop="20230319200000 +0700" channel="Ardan">
     <title lang="en">Ardan Top 20</title>
     <desc lang="en">20 lagu pilihan minggu ini akan direview kembali di sini.</desc>
   </programme>
-  <programme start="20230312200000 +0700" stop="20230312220000 +0700" channel="Ardan">
+  <programme start="20230319200000 +0700" stop="20230319220000 +0700" channel="Ardan">
     <title lang="en">Persada 7 + Persada 7 Lagi</title>
     <desc lang="en">7 + 7 lagu Indonesia pilihan minggu ini akan direview kembali di sini.</desc>
   </programme>
-  <programme start="20230312220000 +0700" stop="20230313000000 +0700" channel="Ardan">
+  <programme start="20230319220000 +0700" stop="20230320000000 +0700" channel="Ardan">
     <title lang="en">Dr Feel Good</title>
     <desc lang="en">Mau tahu ramalan zodiak terbaru? Di sini tempatnya!.</desc>
   </programme>
@@ -470,15 +470,15 @@
     <title lang="en">B-Radio</title>
     <desc lang="en">Radionya Perempuan Bandung.</desc>
   </programme>
-  <programme start="20230312180000 +0700" stop="20230312200000 +0700" channel="B-Radio">
+  <programme start="20230319180000 +0700" stop="20230319200000 +0700" channel="B-Radio">
     <title lang="en">B-Radio</title>
     <desc lang="en">Radionya Perempuan Bandung.</desc>
   </programme>
-  <programme start="20230312200000 +0700" stop="20230312220000 +0700" channel="B-Radio">
+  <programme start="20230319200000 +0700" stop="20230319220000 +0700" channel="B-Radio">
     <title lang="en">B-Radio</title>
     <desc lang="en">Radionya Perempuan Bandung.</desc>
   </programme>
-    <programme start="20230312220000 +0700" stop="20230313000000 +0700" channel="B-Radio">
+    <programme start="20230319220000 +0700" stop="20230320000000 +0700" channel="B-Radio">
     <title lang="en">B-Radio</title>
     <desc lang="en">Radionya Perempuan Bandung.</desc>
   </programme>
