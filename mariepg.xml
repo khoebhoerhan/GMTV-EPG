@@ -180,7 +180,7 @@
     <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Gen FM! Ditemenin sama penyiar-penyiar Gen FM yang bikin nyaman, hari-hari kamu nggak akan pernah terasa sepi sendirian!</desc>
     <icon src="https://gen987fm.com/uploads/program/pap-444691f053fb5f9.jpeg" />
   </programme>
-  <programme start="20230318200000 +0700" stop="20230319070000 +0700" channel="Gen JKT">
+  <programme start="20230325200000 +0700" stop="20230326070000 +0700" channel="Gen JKT">
     <title lang="en">Gen Musik Terus</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
@@ -406,11 +406,11 @@
     <desc lang="en">Ceriakan weekend kamu bersama Gen FM!</desc>
     <icon src="https://gen1031fm.com/assets/uploads/photos/2022/07/14/1716241WEB-BANNER-GWS-GADIS-IRENE.jpg" />
   </programme>
-    <programme start="20230318220000 +0700" stop="20230319070000 +0700" channel="Gen SBY">
+    <programme start="20230325220000 +0700" stop="20230326070000 +0700" channel="Gen SBY">
     <title lang="en">Gen Musik Terus</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
-  <programme start="20230319070000 +0700" stop="20230319100000 +0700" channel="Gen SBY">
+  <programme start="20230326070000 +0700" stop="20230326100000 +0700" channel="Gen SBY">
     <title lang="en">Gen Weekend Show</title>
     <desc lang="en">Ceriakan weekend kamu bersama Gen FM!</desc>
     <icon src="https://gen1031fm.com/assets/uploads/photos/2022/07/14/1716241WEB-BANNER-GWS-GADIS-IRENE.jpg" />
@@ -602,11 +602,11 @@
     <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, weekend kamu nggak akan pernah terasa sepi sendirian!</desc>
     <icon src="https://jak101fm.com/wp-content/uploads/2023/01/07.JAK-BEST-MUSIC_-Egard-Dewo_Weekend-16-20.png" />
   </programme>
-  <programme start="20230318200000 +0700" stop="20230319060000 +0700" channel="Jak FM">
+  <programme start="20230325200000 +0700" stop="20230326060000 +0700" channel="Jak FM">
     <title lang="en">Jak Non-stop Music</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
-  <programme start="20230319060000 +0700" stop="20230319100000 +0700" channel="Jak FM">
+  <programme start="20230326060000 +0700" stop="20230326100000 +0700" channel="Jak FM">
     <title lang="en">Jak Best Music</title>
     <desc lang="en">Untuk kamu yang lagi menikmati weekend, serahkan playlist lagu-lagu paling enak sama Jak FM! Ditemenin sama penyiar-penyiar Jak FM yang bikin nyaman, weekend kamu nggak akan pernah terasa sepi sendirian!</desc>
     <icon src="https://jak101fm.com/wp-content/uploads/2023/01/04.JAK-BEST-MUSIC-_Aisha-Lahtiba-_-WEEKEND-06-10.png" />
@@ -646,7 +646,7 @@
   </programme>
   <programme start="20230320130000 +0700" stop="20230320160000 +0700" channel="Most 1058">
     <title lang="en">After Lunch</title>
-    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13 – 16 WIB</desc>
+    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13.00 – 16.00 WIB</desc>
     <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-LUNCH-1024x1024.jpg" />
   </programme>
   <programme start="20230320160000 +0700" stop="20230320200000 +0700" channel="Most 1058">
@@ -675,7 +675,7 @@
   </programme>
   <programme start="20230321130000 +0700" stop="20230321160000 +0700" channel="Most 1058">
     <title lang="en">After Lunch</title>
-    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13 – 16 WIB</desc>
+    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13.00 – 16.00 WIB</desc>
     <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-LUNCH-1024x1024.jpg" />
   </programme>
   <programme start="20230321160000 +0700" stop="20230321200000 +0700" channel="Most 1058">
@@ -704,7 +704,7 @@
   </programme>
   <programme start="20230322130000 +0700" stop="20230322160000 +0700" channel="Most 1058">
     <title lang="en">After Lunch</title>
-    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13 – 16 WIB</desc>
+    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13.00 – 16.00 WIB</desc>
     <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-LUNCH-1024x1024.jpg" />
   </programme>
   <programme start="20230322160000 +0700" stop="20230322200000 +0700" channel="Most 1058">
@@ -733,7 +733,7 @@
   </programme>
   <programme start="20230323130000 +0700" stop="20230323160000 +0700" channel="Most 1058">
     <title lang="en">After Lunch</title>
-    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13 – 16 WIB</desc>
+    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13.00 – 16.00 WIB</desc>
     <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-LUNCH-1024x1024.jpg" />
   </programme>
   <programme start="20230323160000 +0700" stop="20230323200000 +0700" channel="Most 1058">
@@ -762,7 +762,7 @@
   </programme>
   <programme start="20230324130000 +0700" stop="20230324160000 +0700" channel="Most 1058">
     <title lang="en">After Lunch</title>
-    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13 – 16 WIB</desc>
+    <desc lang="en">Program yang menyampaikan informasi seputar ekonomi bisnis, properti, kesehatan dan investasi. Bersama Dodo Harahap Senin-Jumat dari jam 13.00 – 16.00 WIB</desc>
     <icon src="https://most1058fm.com/wp-content/uploads/2023/02/AFTER-LUNCH-1024x1024.jpg" />
   </programme>
   <programme start="20230324160000 +0700" stop="20230324200000 +0700" channel="Most 1058">
@@ -799,11 +799,11 @@
     <desc lang="en">Program weekend yang berisi informasi-informasi menarik, tiap Sabtu dan Minggu, mulai dari jam 07.00–20.00 WIB. Dipandu oleh newscaster-newscaster handal MOST1058 antara lain Justine Viddy, Andryan Eswe, Diandra Canti dan Gabriella Somba.</desc>
     <icon src="https://most1058fm.com/wp-content/uploads/2023/02/NEWS-WEEKEND-AE-768x768.jpg" />
   </programme>
-  <programme start="20230318200000 +0700" stop="20230319070000 +0700" channel="Most 1058">
+  <programme start="20230325200000 +0700" stop="20230326070000 +0700" channel="Most 1058">
     <title lang="en">Most 1058</title>
     <desc lang="en">Musik non-stop</desc>
   </programme>
-  <programme start="20230319070000 +0700" stop="20230319100000 +0700" channel="Most 1058">
+  <programme start="20230326070000 +0700" stop="20230326100000 +0700" channel="Most 1058">
     <title lang="en">News Weekend</title>
     <desc lang="en">Program weekend yang berisi informasi-informasi menarik, tiap Sabtu dan Minggu, mulai dari jam 07.00–20.00 WIB. Dipandu oleh newscaster-newscaster handal MOST1058 antara lain Justine Viddy, Andryan Eswe, Diandra Canti dan Gabriella Somba.</desc>
     <icon src="https://most1058fm.com/wp-content/uploads/2023/02/NEWS-WEEKEND-JV-768x768.jpg" />
