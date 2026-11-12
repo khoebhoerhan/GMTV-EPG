@@ -1,0 +1,343 @@
+<?xml version="1.0" ?>
+<tv>
+  <channel id="Ardan">
+    <display-name>Ardan Radio</display-name>
+  </channel>
+  <programme start="20261116000000 +0700" stop="20261116040000 +0700" channel="Ardan">
+    <title>Cool & Lovely Tunes</title>
+    <desc>Lagu-lagu cool & lovely yang nemenin kamu dini hari.</desc>
+  </programme>
+  <programme start="20261116040000 +0700" stop="20261116050000 +0700" channel="Ardan">
+    <title>Nuansa Pagi</title>
+    <desc>Nuansa Pagi hadir dari Senin-Sabtu jam 04:00-05:00 pagi, sebagai program rohani yang bertujuan menjadi program yang mengajak Insan Muda agar lebih bisa memahami agama dengan baik serta bisa berdiskusi bersama Ustad Ibnu atau Ustad Sofyan seputar agama.</desc>
+    <icon src="https://iili.io/npv7WGV.jpg"/>
+  </programme>
+  <programme start="20261116050000 +0700" stop="20261116060000 +0700" channel="Ardan">
+    <title>School & Lovely Show</title>
+    <desc>Program mengawali pagi kamu Insan Muda ditemani squad dari Ardan School nih yang bakal kasih kamu info update seputar sekolahan dan update info lainnya juga request lagu kesukaan kamu pastinya.</desc>
+    <icon src="https://iili.io/npv7j3P.jpg"/>
+  </programme>
+  <programme start="20261116060000 +0700" stop="20261116090000 +0700" channel="Ardan">
+    <title>Cipaganti (Cinta Pagi di Bandung City)</title>
+    <desc>Cipaganti program radio terbaik nih bareng Rara dan Gesa, bakal bikin pagi kamu lebih semangat.</desc>
+    <icon src="https://iili.io/npv7lyu.jpg"/>
+  </programme>
+  <programme start="20261116090000 +0700" stop="20261116120000 +0700" channel="Ardan">
+    <title>Ardanesia</title>
+    <desc>Program request lagu berbahasa Indonesia selama 3 jam penuh. Bareng Awa, Naomi, Rein, Pamungkas atau Salma  bergantian setiap Senin-Jumat dijamin bikin pagi ke siang kamu fresh banget.</desc>
+    <icon src="https://iili.io/npv7Y37.jpg"/>
+  </programme>
+  <programme start="20261116120000 +0700" stop="20261116150000 +0700" channel="Ardan">
+    <title>LDR (Lunch Date Relationship)</title>
+    <desc>Lunch Date Relationship, program request lagu berbahasa asing (Inggris – Korea) yang dijamin bikin seger menemani makan siang. Bareng Adin penyiar cantik setiap Senin-Jumat yang siap ngajakin kamu ngedate dengan lagu dan flash news seputaran showbiz luar negeri.</desc>
+    <icon src="https://iili.io/npv7aa9.jpg"/>
+  </programme>
+  <programme start="20261116150000 +0700" stop="20261116180000 +0700" channel="Ardan">
+    <title>Hegarmanah (Heboh Segar Ngeunah)</title>
+    <desc>Program sore paling heboh di Bandung. Sore harinya kamu bakalan ditemenin sama dua penyiar yang bikin kamu gak berhenti ketawa. Pokoknya Dimasta & Lintang siap bikin sore harinya kamu HEBOH, SEGAR, NGEUNAH deh!</desc>
+    <icon src="https://iili.io/npv71Tb.jpg"/>
+  </programme>
+  <programme start="20261116180000 +0700" stop="20261116220000 +0700" channel="Ardan">
+    <title>Riauw (Rikues Lah Yauw)</title>
+    <desc>Program Request Primetime jam 6 sampai 10 malem bareng Iqbal yang muterin lagu lagu request Insan Muda via chat dan juga telepon. Selain request, RIAUW juga menyuguhkan konten cerita seram atau kisah kriminal di RIAUW Horror Story setiap Kamis dan rekomendasi lagu baru di RIAUW Anak Baru setiap Jumat.</desc>
+    <icon src="https://iili.io/npv7VCQ.jpg"/>
+  </programme>
+  <programme start="20261116220000 +0700" stop="20261117000000 +0700" channel="Ardan">
+    <title>Bandung Banget</title>
+    <desc>Semua tentang Bandung ada disini jadi yang mau tau bandung wajib banget dengerin Salma setiap Senin malam, selain info seru seputar Bandung juga ditemanin lagu-lagu enak pastinya.</desc>
+    <icon src="https://iili.io/np8KwHN.jpg"/>
+  </programme>
+  <programme start="20261117000000 +0700" stop="20261117020000 +0700" channel="Ardan">
+    <title>Siliwangi (Siapin Selimut Wangi)</title>
+    <desc>Tengah malem, sambil ngejemput rasa ngantuk, kamu bakal diajak buat curhat sambil diputerin lagu-lagu yang cool and lovely di SILIWANGI, Siapin Selimut Wangi.</desc>
+    <icon src="https://iili.io/np8KXlR.jpg"/>
+  </programme>
+  <programme start="20261117020000 +0700" stop="20261117040000 +0700" channel="Ardan">
+    <title>Cool & Lovely Tunes</title>
+    <desc>Lagu-lagu cool & lovely yang nemenin kamu dini hari.</desc>
+  </programme>
+  <programme start="20261117040000 +0700" stop="20261117050000 +0700" channel="Ardan">
+    <title>Nuansa Pagi</title>
+    <desc>Nuansa Pagi hadir dari Senin-Sabtu jam 04:00-05:00 pagi, sebagai program rohani yang bertujuan menjadi program yang mengajak Insan Muda agar lebih bisa memahami agama dengan baik serta bisa berdiskusi bersama Ustad Ibnu atau Ustad Sofyan seputar agama.</desc>
+    <icon src="https://iili.io/npv7WGV.jpg"/>
+  </programme>
+  <programme start="20261117050000 +0700" stop="20261117060000 +0700" channel="Ardan">
+    <title>School & Lovely Show</title>
+    <desc>Program mengawali pagi kamu Insan Muda ditemani squad dari Ardan School nih yang bakal kasih kamu info update seputar sekolahan dan update info lainnya juga request lagu kesukaan kamu pastinya.</desc>
+    <icon src="https://iili.io/npv7j3P.jpg"/>
+  </programme>
+  <programme start="2026111700000 +0700" stop="20261117090000 +0700" channel="Ardan">
+    <title>Cipaganti (Cinta Pagi di Bandung City)</title>
+    <desc>Cipaganti program radio terbaik nih bareng Rara dan Gesa, bakal bikin pagi kamu lebih semangat.</desc>
+    <icon src="https://iili.io/npv7lyu.jpg"/>
+  </programme>
+  <programme start="20261117090000 +0700" stop="20261117120000 +0700" channel="Ardan">
+    <title>Ardanesia</title>
+    <desc>Program request lagu berbahasa Indonesia selama 3 jam penuh. Bareng Awa, Naomi, Rein, Pamungkas atau Salma  bergantian setiap Senin-Jumat dijamin bikin pagi ke siang kamu fresh banget.</desc>
+    <icon src="https://iili.io/npv7Y37.jpg"/>
+  </programme>
+  <programme start="20261117120000 +0700" stop="20261117150000 +0700" channel="Ardan">
+    <title>LDR (Lunch Date Relationship)</title>
+    <desc>Lunch Date Relationship, program request lagu berbahasa asing (Inggris – Korea) yang dijamin bikin seger menemani makan siang. Bareng Adin penyiar cantik setiap Senin-Jumat yang siap ngajakin kamu ngedate dengan lagu dan flash news seputaran showbiz luar negeri.</desc>
+    <icon src="https://iili.io/npv7aa9.jpg"/>
+  </programme>
+  <programme start="20261117150000 +0700" stop="20261117180000 +0700" channel="Ardan">
+    <title>Hegarmanah (Heboh Segar Ngeunah)</title>
+    <desc>Program sore paling heboh di Bandung. Sore harinya kamu bakalan ditemenin sama dua penyiar yang bikin kamu gak berhenti ketawa. Pokoknya Dimasta & Lintang siap bikin sore harinya kamu HEBOH, SEGAR, NGEUNAH deh!</desc>
+    <icon src="https://iili.io/npv71Tb.jpg"/>
+  </programme>
+  <programme start="20261117180000 +0700" stop="20261117220000 +0700" channel="Ardan">
+    <title>Riauw (Rikues Lah Yauw)</title>
+    <desc>Program Request Primetime jam 6 sampai 10 malem bareng Iqbal yang muterin lagu lagu request Insan Muda via chat dan juga telepon. Selain request, RIAUW juga menyuguhkan konten cerita seram atau kisah kriminal di RIAUW Horror Story setiap Kamis dan rekomendasi lagu baru di RIAUW Anak Baru setiap Jumat.</desc>
+    <icon src="https://iili.io/npv7VCQ.jpg"/>
+  </programme>
+  <programme start="20261117220000 +0700" stop="20261118000000 +0700" channel="Ardan">
+    <title>Asian Delight</title>
+    <desc>Para pecinta KPOP wajib banget dengerin program satu ini karna Keefe bakal kasih kamu info dan lagu-lagu terbaik buat kamu Insan Muda.</desc>
+    <icon src="https://iili.io/np8MTX9.jpg"/>
+  </programme>
+  <programme start="20261118000000 +0700" stop="20261118020000 +0700" channel="Ardan">
+    <title>Siliwangi (Siapin Selimut Wangi)</title>
+    <desc>Tengah malem, sambil ngejemput rasa ngantuk, kamu bakal diajak buat curhat sambil diputerin lagu-lagu yang cool and lovely di SILIWANGI, Siapin Selimut Wangi.</desc>
+    <icon src="https://iili.io/np8KXlR.jpg"/>
+  </programme>
+  <programme start="20261118020000 +0700" stop="20261118040000 +0700" channel="Ardan">
+    <title>Cool & Lovely Tunes</title>
+    <desc>Lagu-lagu cool & lovely yang nemenin kamu dini hari.</desc>
+  </programme>
+  <programme start="20261118040000 +0700" stop="20261118050000 +0700" channel="Ardan">
+    <title>Nuansa Pagi</title>
+    <desc>Nuansa Pagi hadir dari Senin-Sabtu jam 04:00-05:00 pagi, sebagai program rohani yang bertujuan menjadi program yang mengajak Insan Muda agar lebih bisa memahami agama dengan baik serta bisa berdiskusi bersama Ustad Ibnu atau Ustad Sofyan seputar agama.</desc>
+    <icon src="https://iili.io/npv7WGV.jpg"/>
+  </programme>
+  <programme start="20261118050000 +0700" stop="20261118060000 +0700" channel="Ardan">
+    <title>School & Lovely Show</title>
+    <desc>Program mengawali pagi kamu Insan Muda ditemani squad dari Ardan School nih yang bakal kasih kamu info update seputar sekolahan dan update info lainnya juga request lagu kesukaan kamu pastinya.</desc>
+    <icon src="https://iili.io/npv7j3P.jpg"/>
+  </programme>
+  <programme start="2026111800000 +0700" stop="20261118090000 +0700" channel="Ardan">
+    <title>Cipaganti (Cinta Pagi di Bandung City)</title>
+    <desc>Cipaganti program radio terbaik nih bareng Rara dan Gesa, bakal bikin pagi kamu lebih semangat.</desc>
+    <icon src="https://iili.io/npv7lyu.jpg"/>
+  </programme>
+  <programme start="20261118090000 +0700" stop="20261118120000 +0700" channel="Ardan">
+    <title>Ardanesia</title>
+    <desc>Program request lagu berbahasa Indonesia selama 3 jam penuh. Bareng Awa, Naomi, Rein, Pamungkas atau Salma  bergantian setiap Senin-Jumat dijamin bikin pagi ke siang kamu fresh banget.</desc>
+    <icon src="https://iili.io/npv7Y37.jpg"/>
+  </programme>
+  <programme start="20261118120000 +0700" stop="20261118150000 +0700" channel="Ardan">
+    <title>LDR (Lunch Date Relationship)</title>
+    <desc>Lunch Date Relationship, program request lagu berbahasa asing (Inggris – Korea) yang dijamin bikin seger menemani makan siang. Bareng Adin penyiar cantik setiap Senin-Jumat yang siap ngajakin kamu ngedate dengan lagu dan flash news seputaran showbiz luar negeri.</desc>
+    <icon src="https://iili.io/npv7aa9.jpg"/>
+  </programme>
+  <programme start="20261118150000 +0700" stop="20261118180000 +0700" channel="Ardan">
+    <title>Hegarmanah (Heboh Segar Ngeunah)</title>
+    <desc>Program sore paling heboh di Bandung. Sore harinya kamu bakalan ditemenin sama dua penyiar yang bikin kamu gak berhenti ketawa. Pokoknya Dimasta & Lintang siap bikin sore harinya kamu HEBOH, SEGAR, NGEUNAH deh!</desc>
+    <icon src="https://iili.io/npv71Tb.jpg"/>
+  </programme>
+  <programme start="20261118180000 +0700" stop="20261118220000 +0700" channel="Ardan">
+    <title>Riauw (Rikues Lah Yauw)</title>
+    <desc>Program Request Primetime jam 6 sampai 10 malem bareng Iqbal yang muterin lagu lagu request Insan Muda via chat dan juga telepon. Selain request, RIAUW juga menyuguhkan konten cerita seram atau kisah kriminal di RIAUW Horror Story setiap Kamis dan rekomendasi lagu baru di RIAUW Anak Baru setiap Jumat.</desc>
+    <icon src="https://iili.io/npv7VCQ.jpg"/>
+  </programme>
+  <programme start="20261118220000 +0700" stop="20261119000000 +0700" channel="Ardan">
+    <title>Ardan Ngejamz</title>
+    <desc>Di program yang satu ini kamu bukan cuma bisa tau info seputar musisi-musisi terbaik tapi kamu juga bakal denger dan lihat perform keren mereka</desc>
+    <icon src="https://iili.io/np8bnYg.jpg"/>
+  </programme>
+  <programme start="20261119000000 +0700" stop="20261119020000 +0700" channel="Ardan">
+    <title>Siliwangi (Siapin Selimut Wangi)</title>
+    <desc>Tengah malem, sambil ngejemput rasa ngantuk, kamu bakal diajak buat curhat sambil diputerin lagu-lagu yang cool and lovely di SILIWANGI, Siapin Selimut Wangi.</desc>
+    <icon src="https://iili.io/np8KXlR.jpg"/>
+  </programme>
+  <programme start="20261119020000 +0700" stop="20261119040000 +0700" channel="Ardan">
+    <title>Cool & Lovely Tunes</title>
+    <desc>Lagu-lagu cool & lovely yang nemenin kamu dini hari.</desc>
+  </programme>
+  <programme start="20261119040000 +0700" stop="20261119050000 +0700" channel="Ardan">
+    <title>Nuansa Pagi</title>
+    <desc>Nuansa Pagi hadir dari Senin-Sabtu jam 04:00-05:00 pagi, sebagai program rohani yang bertujuan menjadi program yang mengajak Insan Muda agar lebih bisa memahami agama dengan baik serta bisa berdiskusi bersama Ustad Ibnu atau Ustad Sofyan seputar agama.</desc>
+    <icon src="https://iili.io/npv7WGV.jpg"/>
+  </programme>
+  <programme start="20261119050000 +0700" stop="20261119060000 +0700" channel="Ardan">
+    <title>School & Lovely Show</title>
+    <desc>Program mengawali pagi kamu Insan Muda ditemani squad dari Ardan School nih yang bakal kasih kamu info update seputar sekolahan dan update info lainnya juga request lagu kesukaan kamu pastinya.</desc>
+    <icon src="https://iili.io/npv7j3P.jpg"/>
+  </programme>
+  <programme start="2026111900000 +0700" stop="20261119090000 +0700" channel="Ardan">
+    <title>Cipaganti (Cinta Pagi di Bandung City)</title>
+    <desc>Cipaganti program radio terbaik nih bareng Rara dan Gesa, bakal bikin pagi kamu lebih semangat.</desc>
+    <icon src="https://iili.io/npv7lyu.jpg"/>
+  </programme>
+  <programme start="20261119090000 +0700" stop="20261119120000 +0700" channel="Ardan">
+    <title>Ardanesia</title>
+    <desc>Program request lagu berbahasa Indonesia selama 3 jam penuh. Bareng Awa, Naomi, Rein, Pamungkas atau Salma  bergantian setiap Senin-Jumat dijamin bikin pagi ke siang kamu fresh banget.</desc>
+    <icon src="https://iili.io/npv7Y37.jpg"/>
+  </programme>
+  <programme start="20261119120000 +0700" stop="20261119150000 +0700" channel="Ardan">
+    <title>LDR (Lunch Date Relationship)</title>
+    <desc>Lunch Date Relationship, program request lagu berbahasa asing (Inggris – Korea) yang dijamin bikin seger menemani makan siang. Bareng Adin penyiar cantik setiap Senin-Jumat yang siap ngajakin kamu ngedate dengan lagu dan flash news seputaran showbiz luar negeri.</desc>
+    <icon src="https://iili.io/npv7aa9.jpg"/>
+  </programme>
+  <programme start="20261112150000 +0700" stop="20261112180000 +0700" channel="Ardan">
+    <title>Hegarmanah (Heboh Segar Ngeunah)</title>
+    <desc>Program sore paling heboh di Bandung. Sore harinya kamu bakalan ditemenin sama dua penyiar yang bikin kamu gak berhenti ketawa. Pokoknya Dimasta & Lintang siap bikin sore harinya kamu HEBOH, SEGAR, NGEUNAH deh!</desc>
+    <icon src="https://iili.io/npv71Tb.jpg"/>
+  </programme>
+  <programme start="20261112180000 +0700" stop="20261112220000 +0700" channel="Ardan">
+    <title>Riauw (Rikues Lah Yauw)</title>
+    <desc>Program Request Primetime jam 6 sampai 10 malem bareng Iqbal yang muterin lagu lagu request Insan Muda via chat dan juga telepon. Selain request, RIAUW juga menyuguhkan konten cerita seram atau kisah kriminal di RIAUW Horror Story setiap Kamis dan rekomendasi lagu baru di RIAUW Anak Baru setiap Jumat.</desc>
+    <icon src="https://iili.io/npv7VCQ.jpg"/>
+  </programme>
+  <programme start="20261112220000 +0700" stop="20261113000000 +0700" channel="Ardan">
+    <title>Nightmare Side</title>
+    <desc>Acara yang selalu ditunggu-tunggu. Nightmare Side, program siaran horor nomor satu yang mengangkat cerita berdasarkan pengalaman nyata Insan Muda. Tiap malam Jumat Dimasta bakal bawa kamu ke mimpi terburukmu.</desc>
+    <icon src="https://iili.io/npSACps.jpg"/>
+  </programme>
+  <programme start="20261113000000 +0700" stop="20261113020000 +0700" channel="Ardan">
+    <title>Siliwangi (Siapin Selimut Wangi)</title>
+    <desc>Tengah malem, sambil ngejemput rasa ngantuk, kamu bakal diajak buat curhat sambil diputerin lagu-lagu yang cool and lovely di SILIWANGI, Siapin Selimut Wangi.</desc>
+    <icon src="https://iili.io/np8KXlR.jpg"/>
+  </programme>
+  <programme start="20261113020000 +0700" stop="20261113040000 +0700" channel="Ardan">
+    <title>Cool & Lovely Tunes</title>
+    <desc>Lagu-lagu cool & lovely yang nemenin kamu dini hari.</desc>
+  </programme>
+  <programme start="20261113040000 +0700" stop="20261113050000 +0700" channel="Ardan">
+    <title>Nuansa Pagi</title>
+    <desc>Nuansa Pagi hadir dari Senin-Sabtu jam 04:00-05:00 pagi, sebagai program rohani yang bertujuan menjadi program yang mengajak Insan Muda agar lebih bisa memahami agama dengan baik serta bisa berdiskusi bersama Ustad Ibnu atau Ustad Sofyan seputar agama.</desc>
+    <icon src="https://iili.io/npv7WGV.jpg"/>
+  </programme>
+  <programme start="20261113050000 +0700" stop="20261113060000 +0700" channel="Ardan">
+    <title>School & Lovely Show</title>
+    <desc>Program mengawali pagi kamu Insan Muda ditemani squad dari Ardan School nih yang bakal kasih kamu info update seputar sekolahan dan update info lainnya juga request lagu kesukaan kamu pastinya.</desc>
+    <icon src="https://iili.io/npv7j3P.jpg"/>
+  </programme>
+  <programme start="2026111300000 +0700" stop="20261113090000 +0700" channel="Ardan">
+    <title>Cipaganti (Cinta Pagi di Bandung City)</title>
+    <desc>Cipaganti program radio terbaik nih bareng Rara dan Gesa, bakal bikin pagi kamu lebih semangat.</desc>
+    <icon src="https://iili.io/npv7lyu.jpg"/>
+  </programme>
+  <programme start="20261113090000 +0700" stop="20261113120000 +0700" channel="Ardan">
+    <title>Ardanesia</title>
+    <desc>Program request lagu berbahasa Indonesia selama 3 jam penuh. Bareng Awa, Naomi, Rein, Pamungkas atau Salma  bergantian setiap Senin-Jumat dijamin bikin pagi ke siang kamu fresh banget.</desc>
+    <icon src="https://iili.io/npv7Y37.jpg"/>
+  </programme>
+  <programme start="20261113120000 +0700" stop="20261113150000 +0700" channel="Ardan">
+    <title>LDR (Lunch Date Relationship)</title>
+    <desc>Lunch Date Relationship, program request lagu berbahasa asing (Inggris – Korea) yang dijamin bikin seger menemani makan siang. Bareng Adin penyiar cantik setiap Senin-Jumat yang siap ngajakin kamu ngedate dengan lagu dan flash news seputaran showbiz luar negeri.</desc>
+    <icon src="https://iili.io/npv7aa9.jpg"/>
+  </programme>
+  <programme start="20261113150000 +0700" stop="20261113180000 +0700" channel="Ardan">
+    <title>Hegarmanah (Heboh Segar Ngeunah)</title>
+    <desc>Program sore paling heboh di Bandung. Sore harinya kamu bakalan ditemenin sama dua penyiar yang bikin kamu gak berhenti ketawa. Pokoknya Dimasta & Lintang siap bikin sore harinya kamu HEBOH, SEGAR, NGEUNAH deh!</desc>
+    <icon src="https://iili.io/npv71Tb.jpg"/>
+  </programme>
+  <programme start="20261113180000 +0700" stop="20261113220000 +0700" channel="Ardan">
+    <title>Riauw (Rikues Lah Yauw)</title>
+    <desc>Program Request Primetime jam 6 sampai 10 malem bareng Iqbal yang muterin lagu lagu request Insan Muda via chat dan juga telepon. Selain request, RIAUW juga menyuguhkan konten cerita seram atau kisah kriminal di RIAUW Horror Story setiap Kamis dan rekomendasi lagu baru di RIAUW Anak Baru setiap Jumat.</desc>
+    <icon src="https://iili.io/npv7VCQ.jpg"/>
+  </programme>
+  <programme start="20261113220000 +0700" stop="20261114000000 +0700" channel="Ardan">
+    <title>Konci (Konflik Cinta)</title>
+    <desc>Live drama radio dengan cerita cinta yang bikin baper bareng Gesa dan Rein. Yang menarik adalah ending cerita pendengar yang menentukan sendiri ingin seperti apa. Insan muda bisa mengirimkan pengalamannya untuk diangkat di KONCI.</desc>
+    <icon src="https://iili.io/npSEoUx.jpg"/>
+  </programme>
+  <programme start="20261114000000 +0700" stop="20261114020000 +0700" channel="Ardan">
+    <title>Siliwangi (Siapin Selimut Wangi)</title>
+    <desc>Tengah malem, sambil ngejemput rasa ngantuk, kamu bakal diajak buat curhat sambil diputerin lagu-lagu yang cool and lovely di SILIWANGI, Siapin Selimut Wangi.</desc>
+    <icon src="https://iili.io/np8KXlR.jpg"/>
+  </programme>
+  <programme start="20261114020000 +0700" stop="20261114040000 +0700" channel="Ardan">
+    <title>Cool & Lovely Tunes</title>
+    <desc>Lagu-lagu cool & lovely yang nemenin kamu dini hari.</desc>
+  </programme>
+  <programme start="20261114040000 +0700" stop="20261114050000 +0700" channel="Ardan">
+    <title>Nuansa Pagi</title>
+    <desc>Nuansa Pagi hadir dari Senin-Sabtu jam 04:00-05:00 pagi, sebagai program rohani yang bertujuan menjadi program yang mengajak Insan Muda agar lebih bisa memahami agama dengan baik serta bisa berdiskusi bersama Ustad Ibnu atau Ustad Sofyan seputar agama.</desc>
+    <icon src="https://iili.io/npv7WGV.jpg"/>
+  </programme>
+  <programme start="20261114050000 +0700" stop="20261114080000 +0700" channel="Ardan">
+    <title>Bis Sekolah</title>
+    <desc>Bis Sekolah kasih kamu keseruan info seputar anak-anak sekolah</desc>
+    <icon src="https://iili.io/npUIaOG.jpg"/>
+  </programme>
+  <programme start="20261114080000 +0700" stop="20261114110000 +0700" channel="Ardan">
+    <title>Aseek (Ardan Special Weekend)</title>
+    <desc>Program spesial weekend ini selain menghadirkan lagu-lagu yang asik ada juga komunitas-komunitas yang asik dan semua yang asik-asik lainnya yang wajib kamu dengerin setiap Sabtu & Minggu</desc>
+    <icon src="https://iili.io/npUIYRs.jpg"/>
+  </programme>
+  <programme start="20261114110000 +0700" stop="20261114130000 +0700" channel="Ardan">
+    <title>Hot Hits</title>
+    <desc>Di program yang satu ini dari mulai obrolan seru hingga lagu-lagu ter-hot dan terhits disajikan spesial buat kamu nih Insan Muda</desc>
+    <icon src="https://iili.io/npUIAlt.jpg"/>
+  </programme>
+  <programme start="20261114130000 +0700" stop="20261114150000 +0700" channel="Ardan">
+    <title>Saturdate (Santai Terus Tapi Update)</title>
+    <desc>Program Saturdate setiap Sabtu wajib kamu dengerin bareng Salma, karena banyak info update yang wajib kamu tau biar kamu gak kudet Insan Muda.</desc>
+    <icon src="https://iili.io/npUI1Wl.jpg"/>
+  </programme>
+  <programme start="20261114150000 +0700" stop="20261114180000 +0700" channel="Ardan">
+    <title>Live From</title>
+    <desc>Dua wanita cantik ini bakal siaran live di tempat-tempat seru di seputar Bandung mulai dari kuliner dan yang seru lainnya </desc>
+    <icon src="https://iili.io/npUIWg9.jpg"/>
+  </programme>
+  <programme start="20261114180000 +0700" stop="20261114200000 +0700" channel="Ardan">
+    <title>YXGY (Ya Kali Ga Yapping)</title>
+    <desc>Yapping bareng Pamungkas di malam Minggu</desc>
+  </programme>
+  <programme start="20261114200000 +0700" stop="20261114220000 +0700" channel="Ardan">
+    <title>Ardan Shockaholic</title>
+    <desc>Program yang dipandu DJ terbaik buat nemenin malam Minggu kamu Insan Muda</desc>
+    <icon src="https://iili.io/npUIwOb.jpg"/>
+  </programme>
+  <programme start="20261114220000 +0700" stop="20261115000000 +0700" channel="Ardan">
+    <title>Ardan Nembak</title>
+    <desc>Program untuk menyatakan cinta (nembak) pada gebetan. Bareng Lintang, acara ini dijamin bikin senyum-senyum. Penembakan yang tidak bisa ditebak, kadang romantis, kocak sampai menyedihkan di Ardan Nembak!</desc>
+    <icon src="https://iili.io/npUIezx.jpg"/>
+  </programme>
+  <programme start="202611145000000 +0700" stop="20261115020000 +0700" channel="Ardan">
+    <title>Siliwangi (Siapin Selimut Wangi)</title>
+    <desc>Tengah malem, sambil ngejemput rasa ngantuk, kamu bakal diajak buat curhat sambil diputerin lagu-lagu yang cool and lovely di SILIWANGI, Siapin Selimut Wangi.</desc>
+    <icon src="https://iili.io/np8KXlR.jpg"/>
+  </programme>
+  <programme start="20261115020000 +0700" stop="20261115050000 +0700" channel="Ardan">
+    <title>Cool & Lovely Tunes</title>
+    <desc>Lagu-lagu cool & lovely yang nemenin kamu dini hari.</desc>
+  </programme>
+  <programme start="20261115050000 +0700" stop="20261115080000 +0700" channel="Ardan">
+    <title>Bis Sekolah</title>
+    <desc>Bis Sekolah kasih kamu keseruan info seputar anak-anak sekolah</desc>
+    <icon src="https://iili.io/npUIaOG.jpg"/>
+  </programme>
+  <programme start="20261115080000 +0700" stop="20261115110000 +0700" channel="Ardan">
+    <title>Aseek (Ardan Special Weekend)</title>
+    <desc>Program spesial weekend ini selain menghadirkan lagu-lagu yang asik ada juga komunitas-komunitas yang asik dan semua yang asik-asik lainnya yang wajib kamu dengerin setiap Sabtu & Minggu</desc>
+    <icon src="https://iili.io/npUIYRs.jpg"/>
+  </programme>
+  <programme start="20261115110000 +0700" stop="20261115150000 +0700" channel="Ardan">
+    <title>Ardan Flight 40</title>
+    <desc>Kamu pengen tau lagu Barat-Korea apa aja yang paling populer di setiap minggunya kamu wajib cari tau di program satu ini Insan Muda</desc>
+    <icon src="https://iili.io/npUsEZB.jpg"/>
+  </programme>
+  <programme start="20261115150000 +0700" stop="20261115180000 +0700" channel="Ardan">
+    <title>Ardan Indie 7</title>
+    <desc>Kamu pengen tau band indie apa aja yang paling populer di setiap minggunya kamu wajib cari tau di program satu ini Insan Muda</desc>
+    <icon src="https://iili.io/npUsMCP.jpg"/>
+  </programme>
+  <programme start="20261115180000 +0700" stop="20261115200000 +0700" channel="Ardan">
+    <title>Ardan Top 20</title>
+    <desc>Kamu pengen tau lagu apa aja yang paling populer di setiap minggunya kamu wajib cari tau di program satu ini Insan Muda</desc>
+    <icon src="https://iili.io/npUs1jV.jpg"/>
+  </programme>
+  <programme start="20261115200000 +0700" stop="20261115220000 +0700" channel="Ardan">
+    <title>Persada 7</title>
+    <desc>Kamu pengen tau lagu Indonesia apa aja yang paling populer di setiap minggunya kamu wajib cari tau di program satu ini Insan Muda</desc>
+    <icon src="https://iili.io/npUs0TQ.jpg"/>
+  </programme>
+  <programme start="20261115220000 +0700" stop="20261116000000 +0700" channel="Ardan">
+    <title>Braga (Berita Olahraga)</title>
+    <desc>Braga alias Berita Olahraga, disni kamu bakal dapet info-info seru dan ditemani lagu-lagu kesukaan kamu pastinya</desc>
+    <icon src="https://iili.io/npUskjp.jpg"/>
+  </programme>
+</tv>
