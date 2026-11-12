@@ -9,8 +9,8 @@
     <url>http://www.suarasurabaya.net</url>
   </channel>
   <programme start="20261116000000 +0700" stop="2026111609040000 +0700" channel="Ardan">
-    <title lang="en">Non-stop Music</title>
-    <desc lang="en">Musik dinihari selama 120 menit penuh.</desc>
+    <title lang="en">Cool & Lovely Tunes</title>
+    <desc lang="en">Musik dinihari selama 240 menit penuh.</desc>
       </programme>
   <programme start="20261116040000 +0700" stop="20261116050000 +0700" channel="Ardan">
     <title lang="en">Nuansa Pagi</title>
@@ -51,16 +51,16 @@
     <title lang="en">Bandung Banget</title>
     <desc lang="en">Semua tentang Bandung ada disini jadi yang mau tau bandung wajib banget dengerin SALMA setiap Senin malam, selain info seru seputar Bandung juga ditemanin lagu - lagu enak pastinya.</desc>
     <icon src="https://iili.io/npNAtyl.webp" />
-  </programme>
+      </programme>
   <programme start="20261117000000 +0700" stop="20261117020000 +0700" channel="Ardan">
     <title lang="en">Siliwangi (Siapin Selimut Wangi)</title>
     <desc lang="en">Tengah malem, sambil ngejemput rasa ngantuk, kamu bakal diajak buat curhat sambil diputerin lagu-lagu yang cool and lovely di SILIWANGI, Siapin Selimut Wangi.</desc>
     <icon src="https://iili.io/npNA02j.webp" />
-  </programme>
+      </programme>
   <programme start="20261117020000 +0700" stop="20261117040000 +0700" channel="Ardan">
-    <title lang="en">Non-stop Music</title>
+    <title lang="en">Cool & Lovely Tunes</title>
     <desc lang="en">Musik dinihari selama 120 menit penuh.</desc>
-  </programme>
+      </programme>
   <programme start="20261117040000 +0700" stop="20261117050000 +0700" channel="Ardan">
     <title lang="en">Nuansa Pagi</title>
     <desc lang="en">Nuansa Pagi hadir sebagai program rohani yang bertujuan menjadi program yang mengajak Insan Muda agar lebih bisa memahami agama dengan baik serta bisa berdiskusi bersama Ustad Ibnu atau Ustad Sofyan seputar agama.</desc>
@@ -107,7 +107,7 @@
     <icon src="https://iili.io/npNA02j.webp" />
    </programme>
    <programme start="20261118000000 +0700" stop="20261118040000 +0700" channel="Ardan">
-    <title lang="en">Non-stop Music</title>
+    <title lang="en">Cool & Lovely Tunes</title>
     <desc lang="en">Musik dinihari selama 120 menit penuh.</desc>
       </programme>
    <programme start="20261116040000 +0700" stop="20261116050000 +0700" channel="Ardan">
@@ -156,7 +156,7 @@
     <icon src="https://iili.io/npNA02j.webp" />
   </programme>
   <programme start="20261119000000 +0700" stop="20261119040000 +0700" channel="Ardan">
-    <title lang="en">Non-stop Music</title>
+    <title lang="en">Cool & Lovely Tunes</title>
     <desc lang="en">Musik dinihari selama 120 menit penuh.</desc>
       </programme>
   <programme start="20261119040000 +0700" stop="20261119050000 +0700" channel="Ardan">
@@ -205,7 +205,7 @@
     <icon src="https://iili.io/npNA02j.webp" />
   </programme>
   <programme start="20261113000000 +0700" stop="20261113040000 +0700" channel="Ardan">
-    <title lang="en">Non-stop Music</title>
+    <title lang="en">Cool & Lovely Tunes</title>
     <desc lang="en">Musik dinihari selama 120 menit penuh.</desc>
       </programme>
   <programme start="20261113040000 +0700" stop="20261113050000 +0700" channel="Ardan">
@@ -254,7 +254,7 @@
     <icon src="https://iili.io/npNA02j.webp" />
   </programme>
   <programme start="20261114000000 +0700" stop="20261114040000 +0700" channel="Ardan">
-    <title lang="en">Non-stop Music</title>
+    <title lang="en">Cool & Lovely Tunes</title>
     <desc lang="en">Musik dinihari selama 120 menit penuh.</desc>
       </programme>
   <programme start="20261114040000 +0700" stop="20261114050000 +0700" channel="Ardan">
@@ -307,7 +307,7 @@
     <icon src="https://i.imgur.com/wW6O4jO.jpg" />
   </programme>
   <programme start="20261115020000 +0700" stop="20261115050000 +0700" channel="Ardan">
-    <title lang="en">Non-stop Music</title>
+    <title lang="en">Cool & Lovely Tunes</title>
     <desc lang="en">Musik dinihari selama 180 menit penuh.</desc>
   </programme>
   <programme start="20261115050000 +0700" stop="20261115080000 +0700" channel="Ardan">
