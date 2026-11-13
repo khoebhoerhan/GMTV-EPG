@@ -192,26 +192,26 @@
     <desc>Program Request Primetime jam 6 sampai 10 malem bareng Iqbal yang muterin lagu lagu request Insan Muda via chat dan juga telepon. Selain request, RIAUW juga menyuguhkan konten cerita seram atau kisah kriminal di RIAUW Horror Story setiap Kamis dan rekomendasi lagu baru di RIAUW Anak Baru setiap Jumat.</desc>
     <icon src="https://iili.io/npv7VCQ.jpg"/>
   </programme>
-  <programme start="20261112220000 +0700" stop="20261113000000 +0700" channel="Ardan">
+  <programme start="20261119220000 +0700" stop="20261120000000 +0700" channel="Ardan">
     <title>Nightmare Side</title>
     <desc>Acara yang selalu ditunggu-tunggu. Nightmare Side, program siaran horor nomor satu yang mengangkat cerita berdasarkan pengalaman nyata Insan Muda. Tiap malam Jumat Dimasta bakal bawa kamu ke mimpi terburukmu.</desc>
     <icon src="https://iili.io/npSACps.jpg"/>
   </programme>
-  <programme start="20261113000000 +0700" stop="20261113020000 +0700" channel="Ardan">
+  <programme start="20261120000000 +0700" stop="20261120020000 +0700" channel="Ardan">
     <title>Siliwangi (Siapin Selimut Wangi)</title>
     <desc>Tengah malem, sambil ngejemput rasa ngantuk, kamu bakal diajak buat curhat sambil diputerin lagu-lagu yang cool and lovely di SILIWANGI, Siapin Selimut Wangi.</desc>
     <icon src="https://iili.io/np8KXlR.jpg"/>
   </programme>
-  <programme start="20261113020000 +0700" stop="20261113040000 +0700" channel="Ardan">
+  <programme start="20261120020000 +0700" stop="20261120040000 +0700" channel="Ardan">
     <title>Cool and Lovely Tunes</title>
     <desc>Lagu-lagu cool and lovely yang nemenin kamu dini hari.</desc>
   </programme>
-  <programme start="20261113040000 +0700" stop="20261113050000 +0700" channel="Ardan">
+  <programme start="20261120040000 +0700" stop="20261120050000 +0700" channel="Ardan">
     <title>Nuansa Pagi</title>
     <desc>Nuansa Pagi hadir dari Senin-Sabtu jam 04:00-05:00 pagi, sebagai program rohani yang bertujuan menjadi program yang mengajak Insan Muda agar lebih bisa memahami agama dengan baik serta bisa berdiskusi bersama Ustad Ibnu atau Ustad Sofyan seputar agama.</desc>
     <icon src="https://iili.io/npv7WGV.jpg"/>
   </programme>
-  <programme start="20261113050000 +0700" stop="20261113060000 +0700" channel="Ardan">
+  <programme start="20261120050000 +0700" stop="20261120060000 +0700" channel="Ardan">
     <title>School and Lovely Show</title>
     <desc>Program mengawali pagi kamu Insan Muda ditemani squad dari Ardan School nih yang bakal kasih kamu info update seputar sekolahan dan update info lainnya juga request lagu kesukaan kamu pastinya.</desc>
     <icon src="https://iili.io/npv7j3P.jpg"/>
@@ -603,37 +603,37 @@
     <desc>Kelana Kota adalah program interaktif yang menghadirkan informasi terkini seputar kondisi perkotaan di Surabaya dan sekitarnya. Melalui partisipasi aktif pendengar, program ini menjadi ruang berbagi informasi mengenai lalu lintas, fasilitas umum, layanan publik, hingga berbagai dinamika kota yang bermanfaat bagi masyarakat.</desc>
     <icon src="https://iili.io/nptJEJ9.jpg"/>
   </programme>
-  <programme start="20261112220000 +0700" stop="20261113000000 +0700" channel="Suara Surabaya">
+  <programme start="20261119220000 +0700" stop="20261120000000 +0700" channel="Suara Surabaya">
     <title>Jazz Traffic</title>
     <desc>Jazz Traffic menghadirkan pilihan musik jazz dari berbagai era dan aliran untuk menemani suasana malam. Program ini menyajikan alunan jazz yang santai, hangat, dan berkualitas.</desc>
     <icon src="https://iili.io/nptJllS.jpg"/>
   </programme>
-  <programme start="20261113000000 +0700" stop="20261113001500 +0700" channel="Suara Surabaya">
+  <programme start="20261120000000 +0700" stop="20261120001500 +0700" channel="Suara Surabaya">
     <title>Berita Suara Surabaya</title>
     <desc>Berita Suara Surabaya menghadirkan rangkuman berita terkini dalam format singkat, padat, dan informatif. Dalam durasi 15 menit, program ini menyajikan perkembangan terbaru seputar peristiwa lokal, nasional, maupun internasional untuk membantu pendengar tetap terhubung dengan informasi penting setiap hari.</desc>
     <icon src="https://iili.io/nptJ0U7.jpg"/>
   </programme>
-  <programme start="20261113001500 +0700" stop="20261113050000 +0700" channel="Suara Surabaya">
+  <programme start="20261120001500 +0700" stop="20261120050000 +0700" channel="Suara Surabaya">
     <title>Kelana Kota</title>
     <desc>Kelana Kota adalah program interaktif yang menghadirkan informasi terkini seputar kondisi perkotaan di Surabaya dan sekitarnya. Melalui partisipasi aktif pendengar, program ini menjadi ruang berbagi informasi mengenai lalu lintas, fasilitas umum, layanan publik, hingga berbagai dinamika kota yang bermanfaat bagi masyarakat.</desc>
     <icon src="https://iili.io/nptJEJ9.jpg"/>
   </programme>
-  <programme start="20261113050000 +0700" stop="20261113053000 +0700" channel="Suara Surabaya">
+  <programme start="20261120050000 +0700" stop="20261120053000 +0700" channel="Suara Surabaya">
     <title>Renungan Fajar</title>
     <desc>Renungan Fajar adalah program perbincangan keislaman yang menemani pendengar mengawali pagi dengan pembahasan seputar ajaran Islam, nilai-nilai kehidupan, dan refleksi spiritual. Program ini menghadirkan inspirasi dan pencerahan untuk memulai hari dengan semangat dan keberkahan.</desc>
     <icon src="https://iili.io/nptJolI.png"/>
   </programme>
-  <programme start="20261113053000 +0700" stop="20261113060000 +0700" channel="Suara Surabaya">
+  <programme start="20261120053000 +0700" stop="20261120060000 +0700" channel="Suara Surabaya">
     <title>Kelana Kota</title>
     <desc>Kelana Kota adalah program interaktif yang menghadirkan informasi terkini seputar kondisi perkotaan di Surabaya dan sekitarnya. Melalui partisipasi aktif pendengar, program ini menjadi ruang berbagi informasi mengenai lalu lintas, fasilitas umum, layanan publik, hingga berbagai dinamika kota yang bermanfaat bagi masyarakat.</desc>
     <icon src="https://iili.io/nptJEJ9.jpg"/>
   </programme>
-  <programme start="20261113060000 +0700" stop="20261113061500 +0700" channel="Suara Surabaya">
+  <programme start="20261120060000 +0700" stop="20261120061500 +0700" channel="Suara Surabaya">
     <title>Berita Suara Surabaya</title>
     <desc>Berita Suara Surabaya menghadirkan rangkuman berita terkini dalam format singkat, padat, dan informatif. Dalam durasi 15 menit, program ini menyajikan perkembangan terbaru seputar peristiwa lokal, nasional, maupun internasional untuk membantu pendengar tetap terhubung dengan informasi penting setiap hari.</desc>
     <icon src="https://iili.io/nptJ0U7.jpg"/>
   </programme>
-  <programme start="20261113061500 +0700" stop="20261113073000 +0700" channel="Suara Surabaya">
+  <programme start="20261120061500 +0700" stop="20261120073000 +0700" channel="Suara Surabaya">
     <title>Kelana Kota</title>
     <desc>Kelana Kota adalah program interaktif yang menghadirkan informasi terkini seputar kondisi perkotaan di Surabaya dan sekitarnya. Melalui partisipasi aktif pendengar, program ini menjadi ruang berbagi informasi mengenai lalu lintas, fasilitas umum, layanan publik, hingga berbagai dinamika kota yang bermanfaat bagi masyarakat.</desc>
     <icon src="https://iili.io/nptJEJ9.jpg"/>
@@ -701,7 +701,7 @@
   <programme start="20261114100000 +0700" stop="20261114110000 +0700" channel="Suara Surabaya">
     <title>Inspirasi Solusi</title>
     <desc>Inspirasi Solusi adalah program talkshow yang membahas dunia bisnis, kewirausahaan, dan pengembangan usaha bersama para pakar serta praktisi di bidangnya. Melalui diskusi yang informatif dan inspiratif, program ini menghadirkan wawasan, strategi, dan solusi praktis bagi pendengar yang ingin mengembangkan bisnis maupun meningkatkan jiwa kewirausahaan.</desc>
-    <icon src="https://iili.io/nptJGRe.png"/>
+    <icon src="https://iili.io/nptJnKN.jpg"/>
   </programme>
   <programme start="20261114110000 +0700" stop="20261114130000 +0700" channel="Suara Surabaya">
     <title>Kelana Kota</title>
