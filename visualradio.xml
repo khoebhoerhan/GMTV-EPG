@@ -313,12 +313,12 @@
     <desc>Program spesial weekend ini selain menghadirkan lagu-lagu yang asik ada juga komunitas-komunitas yang asik dan semua yang asik-asik lainnya yang wajib kamu dengerin setiap Sabtu dan Minggu</desc>
     <icon src="https://iili.io/npUIYRs.jpg"/>
   </programme>
-  <programme start="20261115110000 +0700" stop="20261115150000 +0700" channel="Ardan">
+  <programme start="20261122110000 +0700" stop="20261122150000 +0700" channel="Ardan">
     <title>Ardan Flight 40</title>
     <desc>Kamu pengen tau lagu Barat-Korea apa aja yang paling populer di setiap minggunya kamu wajib cari tau di program satu ini Insan Muda</desc>
     <icon src="https://iili.io/npUsEZB.jpg"/>
   </programme>
-  <programme start="20261115150000 +0700" stop="20261115180000 +0700" channel="Ardan">
+  <programme start="20261122150000 +0700" stop="20261122180000 +0700" channel="Ardan">
     <title>Ardan Indie 7</title>
     <desc>Kamu pengen tau band indie apa aja yang paling populer di setiap minggunya kamu wajib cari tau di program satu ini Insan Muda</desc>
     <icon src="https://iili.io/npUsMCP.jpg"/>
@@ -733,32 +733,32 @@
     <desc>Kelana Kota adalah program interaktif yang menghadirkan informasi terkini seputar kondisi perkotaan di Surabaya dan sekitarnya. Melalui partisipasi aktif pendengar, program ini menjadi ruang berbagi informasi mengenai lalu lintas, fasilitas umum, layanan publik, hingga berbagai dinamika kota yang bermanfaat bagi masyarakat.</desc>
     <icon src="https://iili.io/nptJEJ9.jpg"/>
   </programme>
-  <programme start="20261115060000 +0700" stop="20261115061500 +0700" channel="Suara Surabaya">
+  <programme start="20261122060000 +0700" stop="20261122061500 +0700" channel="Suara Surabaya">
     <title>Berita Suara Surabaya</title>
     <desc>Berita Suara Surabaya menghadirkan rangkuman berita terkini dalam format singkat, padat, dan informatif. Dalam durasi 15 menit, program ini menyajikan perkembangan terbaru seputar peristiwa lokal, nasional, maupun internasional untuk membantu pendengar tetap terhubung dengan informasi penting setiap hari.</desc>
     <icon src="https://iili.io/nptJ0U7.jpg"/>
   </programme>
-  <programme start="20261115061500 +0700" stop="20261115130000 +0700" channel="Suara Surabaya">
+  <programme start="20261122061500 +0700" stop="20261122130000 +0700" channel="Suara Surabaya">
     <title>Kelana Kota</title>
     <desc>Kelana Kota adalah program interaktif yang menghadirkan informasi terkini seputar kondisi perkotaan di Surabaya dan sekitarnya. Melalui partisipasi aktif pendengar, program ini menjadi ruang berbagi informasi mengenai lalu lintas, fasilitas umum, layanan publik, hingga berbagai dinamika kota yang bermanfaat bagi masyarakat.</desc>
     <icon src="https://iili.io/nptJEJ9.jpg"/>
   </programme>
-  <programme start="20261115130000 +0700" stop="20261115131500 +0700" channel="Suara Surabaya">
+  <programme start="20261122130000 +0700" stop="20261122131500 +0700" channel="Suara Surabaya">
     <title>Berita Suara Surabaya</title>
     <desc>Berita Suara Surabaya menghadirkan rangkuman berita terkini dalam format singkat, padat, dan informatif. Dalam durasi 15 menit, program ini menyajikan perkembangan terbaru seputar peristiwa lokal, nasional, maupun internasional untuk membantu pendengar tetap terhubung dengan informasi penting setiap hari.</desc>
     <icon src="https://iili.io/nptJ0U7.jpg"/>
   </programme>
-  <programme start="20261115131500 +0700" stop="20261115150000 +0700" channel="Suara Surabaya">
+  <programme start="20261122131500 +0700" stop="20261122150000 +0700" channel="Suara Surabaya">
     <title>Kelana Kota</title>
     <desc>Kelana Kota adalah program interaktif yang menghadirkan informasi terkini seputar kondisi perkotaan di Surabaya dan sekitarnya. Melalui partisipasi aktif pendengar, program ini menjadi ruang berbagi informasi mengenai lalu lintas, fasilitas umum, layanan publik, hingga berbagai dinamika kota yang bermanfaat bagi masyarakat.</desc>
     <icon src="https://iili.io/nptJEJ9.jpg"/>
   </programme>
-  <programme start="20261115150000 +0700" stop="20261115160000 +0700" channel="Suara Surabaya">
+  <programme start="20261122150000 +0700" stop="20261122160000 +0700" channel="Suara Surabaya">
     <title>Talksic (Talk About Music)</title>
     <desc>Talksic (Talk About Music) adalah program talkshow musik yang menghadirkan musisi dan pelaku industri musik lokal Surabaya untuk berbagi cerita, proses kreatif, serta perjalanan mereka di dunia musik. Dengan suasana yang santai dan inspiratif, program ini menjadi wadah untuk mengenal lebih dekat karya dan perkembangan skena musik lokal.</desc>
     <icon src="https://iili.io/nptJxSt.png"/>
   </programme>
-  <programme start="20261115160000 +0700" stop="20261115190000 +0700" channel="Suara Surabaya">
+  <programme start="20261122160000 +0700" stop="20261122190000 +0700" channel="Suara Surabaya">
     <title>Kelana Kota</title>
     <desc>Kelana Kota adalah program interaktif yang menghadirkan informasi terkini seputar kondisi perkotaan di Surabaya dan sekitarnya. Melalui partisipasi aktif pendengar, program ini menjadi ruang berbagi informasi mengenai lalu lintas, fasilitas umum, layanan publik, hingga berbagai dinamika kota yang bermanfaat bagi masyarakat.</desc>
     <icon src="https://iili.io/nptJEJ9.jpg"/>
